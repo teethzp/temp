@@ -1,0 +1,829 @@
+
+/********************************************************************
+	created:	2014/08/22
+	created:	5:12:2013   13:55
+	update:     	2016/01/07
+	filename: 	message.proto
+	file path:	CloudPlatformDevel\CloudPaltformMessage
+	file base:	message
+	file ext:	.proto
+	author:		lhmei
+	purpose:	用于Google Protobuf 消息创建
+*********************************************************************/
+package CloudPlatformMsg;
+
+//
+/*************************************************************\
+ * 	
+ *	消息返回码,枚举所有ResponseMsg消息的返回值
+ *	
+ \************************************************************/
+enum RetCode
+{
+	CP_SUCCESS = 0;						//操作成功
+	CP_USERNAMEPASSWORD_ERROR = 1;		//用户名，密码错误
+	CP_CONNECTION_ERROR=2;				//连接错误
+	CP_SESSIONID_ERROR =3;				//会话SessionID错误
+	CP_MODULEID_ERROR =4;				//模块ID错误
+	CP_INSTRUCTMSG_ERROR =5;			//用户发送的指令错误
+	CP_MODULE_BUSY=6;					//3G模块正被占用—模块忙
+	CP_DEPOTID_ERROR=7;					//仓库id错
+	CP_TIMEOUT = 8;						//超时
+	CP_SQLEXCUTE_ERROR=9;				//数据库操作失败
+	CP_TIMER_ERROR =10;					//定时错误
+	CP_DELAY = 11;                      //手动通风正在延时
+}
+
+
+enum HumiCableType
+{
+	out_humi=0;		//室外测湿电缆				
+	In_humi=1;		//室内测湿电缆
+}
+
+//定时检查类型
+enum TimingTestingType
+{
+	TempHumi = 0;	//温湿度
+	Gas = 1;		//气体
+	Material = 2;	//料位
+}
+
+enum  VentilateMechine
+{
+	MenChaung=0;		//智能门窗
+	PaiFengJi=1;		//智能排风扇
+	TongFengKou=2;		//智能通风口
+	TongFengJi=3;		//智能排风机
+}
+
+enum DataResultType
+{
+	TempAndHumiData=0;     //温湿度数据
+	LiaoWeiData=1;         //料位数据
+	CO2Data=2;             //CO2数据
+	O2Data=3;              //O2数据
+	PH3Data=4;             //PH3数据
+	ALLData=5;
+	PastisData=6;			//虫子数据170611
+}
+/*************************************************************\
+ * 	
+ *	设备类型
+ *	
+ \************************************************************/
+enum HardwareType
+{
+	WirelessDigatal = 0;					// 无线数字
+	WirelessAnalog = 1;					//无线模拟
+	WiredDigatal = 2 ;					//有线数字
+	WiredAnalog = 3 ;					//有线模拟
+}
+/*************************************************************\
+ * 	
+ *	分机中通道类型
+ *	
+ \************************************************************/
+enum ChannelType
+{
+	Temperature = 0;					//测温通道
+	Humidity = 1;						//测湿通道
+	Ventilation =2;						//通风通道
+	LaoWei=3;		
+	H2S=4;
+	Oxygen=5;
+	CO2=6;
+	LUX=7;                               //光照强度
+	SOILHUMI=8;                        //土壤温湿度
+	AIRCONTION=9;							//空调170222
+	PASTIS=10;								//测虫170611
+}
+
+/*************************************************************\
+ * 	
+ *	设备错误码
+ *	
+ \************************************************************/
+enum PointErrType
+{
+	PointOK = 0;
+	OpenaCircuit = 1;					//测温点错误——开路
+	ShortCircuit = 2;					//测温点错误——短路
+}
+
+/*************************************************************\
+ * 	
+ *	设备类型枚举，PC和Android
+ *	
+ \************************************************************/
+enum ClientDeviceType								
+{
+	CP_PC = 0;
+	CP_Android=1;
+	CP_WEB=2;
+	CP_PC_xiancao = 3;
+	CP_Android_xiancao = 4;
+	CP_WEB_xiancao = 5;
+}
+
+/*************************************************************\
+ * 	
+ *	定时类型，周期定时和指定时间定时
+ *	
+ \************************************************************/
+enum TimerType
+{
+	Timer_Period = 0 ;   //周期定时
+	Timer_Fixed = 1;     //自定义定时
+
+}
+/*************************************************************\
+ * 	
+ *	定时状态类型，即是否定时
+ *	
+ \************************************************************/
+enum TimerState
+{
+	Not_Timed = 0;		//没定时
+	Timed = 1 ;			//定时中	
+	
+}
+
+/*************************************************************\
+ * 	
+ *	通风状态类型
+ *	
+ \************************************************************/
+enum VentilateState
+{
+	Not_Ventilated = 0;		//没通风
+	Ventilated = 1;			//通风中	
+}
+
+/*************************************************************\
+ * 	
+ *	空调开关状态类型170222
+ *	
+ \************************************************************/
+enum AirctState
+{
+	Not_Airct = 0;		//空调关
+	Airct = 1;			//空调开	
+}
+/*************************************************************\
+ * 	
+ *	空调风大小类型170222
+ *	
+ \************************************************************/
+enum WindState
+{
+	BigWin=0;			//大风
+	SmallWin=1;			//小风
+}
+/*************************************************************\
+ * 	
+ *	通风类型，自动和手动
+ *	
+ \************************************************************/
+enum VentilateType
+{
+	Manual_ventilate = 0;	//手动通风
+	Auto_ventilate = 1;		//自动通风
+	
+}
+
+/*************************************************************\
+ * 	
+ *	查询历史记录的方式
+ *	
+ \************************************************************/
+enum DownLoadDataresultType
+{
+	Type_AllInOne=1;	//选择的仓库的某个时间点共有的所以记录
+	Type_AllInAll=2;	//选择的仓库 在某个时间段的所有记录，即这个时间段内的数据都需要
+}
+
+enum RequestAlarmInfoType
+{
+	UnreadCount=1;      //获取未读报警信息数目
+	UnreadData=2;       //获取未读报警信息数据
+	AllCount=3;         //获取全部报警信息数目
+	AllData=4;          //获取全部报警信息数据
+}
+
+//用户等级 170724
+enum UserGrade
+{
+	SuperAdmin=0;		//超级管理员 3级用户
+	Admin=1;			//管理员 2级用户			若用户信息没有该字段则默认是管理员
+	monitor=2;			//监测员 1级用户
+}
+
+/*************************************************************\
+ * 	交互消息
+ *	这几个消息是客户端与服务器之间的接口交互消息，
+ *	交互过程即：有RequestMsg，有ResponseMsg
+ \************************************************************/
+
+/*************************************************************\
+ * 	
+ *	登陆请求消息与登陆响应消息
+ *	
+ \************************************************************/
+message LoginRequestMsg
+{
+	optional string username =1;			//用户名
+	optional string password =2;			//密码
+	optional ClientDeviceType device = 3;	//目前是为了PC客户端添加的字段
+	optional string timestamp=4;            //时间戳  171025
+
+
+}					
+message LoginResponseMsg
+{
+	optional RetCode retcode = 1;		//作为服务器对客户端的响应
+	optional int32	 userid = 2;
+
+}
+
+/*************************************************************\
+ * 	
+ *	创建实例请求消息与创建实例响应消息
+ *	
+ \************************************************************/
+message CreateInstanceRequestMsg 
+{
+	optional ClientDeviceType device = 1;
+	optional int32	userid = 2;
+}
+message CreateInstanceResponseMsg
+{
+	optional RetCode retcode = 1; 
+	optional int32 sessionId = 2; 		//一个sessionid分配给一个client
+}
+
+/*************************************************************\
+ * 	
+ *	发送指令请求消息与发送指令响应消息
+ *	
+ \************************************************************/
+message SendInstructRequestMsg			
+{
+	optional string moduleName = 1;			//模块moduleName号
+	optional int32 sessionid = 2;			//会话id
+	optional string instructMsg = 3;		//发送的具体指令消息(测湿指令，室内指令最后加0，室外指令最后加1)
+	optional int32 	hardwaretype=4;			//测温系统的类型   0表示模拟，1表示数字
+	optional int32 pointsnum=5;			//当前通道点的个数
+}
+message SendInstructResponseMsg
+{
+	optional RetCode retcode = 1;
+	optional DataResultMsg dataResult = 2;
+	optional string duration = 3;          //手动通风延时时间
+}
+
+/***************************************************\
+*	定时检测配置	
+ \**************************************************/
+message TimerInstructRequestMsg
+{
+	optional int32		sessionid = 1;	
+	optional int32		depotid = 2;					//仓库ID
+	optional TimerState 	timerState = 3;				//定时状态(定时或者取消定时)  
+	optional VentilateType 	ventCtrlState = 4;			//通风类型
+	optional TimerType	timerType = 5;					//定时类型
+	optional int32		timerPeriod = 6;				//定时周期(周期定时，单位:秒)
+	repeated string		timerFixed = 7;					//指定时间(自定义定时)
+	optional int32		cycleindex = 8;					//循环次数
+	repeated string		instructs = 9;					//指令队列 <moudleid,instruct,通道的点数>// 例如：ABC0001,020211,8    ABC0001,020211,18
+	optional int32 		hardwaretype=10;				//测温系统的类型   0表示模拟，1表示数字 
+	optional string     starttimerPeriod=11;    		//周期定时开始的时间(全仓周期定时，这个时间需要一致)
+	optional TimingTestingType timingtestingtype = 12;	//定时检测类型
+}
+
+message TimerInstructResponseMsg
+{
+	optional  RetCode retcode = 1;
+}
+
+//170724
+message InsertUsDeMsg
+{
+	optional string username=1;
+	repeated DepotInfoMsg insertdepots=2;
+}
+
+//170724
+message DownMasSubInfo
+{
+	optional int32 muserid=1;
+}
+
+/*************************************************************\
+ * 	信息同步请求消息与信息同步响应消息
+ *	主要是客户端与服务器端的数据库信息的同步，
+ *	保持数据的一致性
+ \************************************************************/
+message SynchInformationRequestMsg			//client-->server
+{
+	// 包含了其他数据库的消息
+	optional int32 sessionid = 1;					//会话id
+  	optional ModuleInfoMsg moduleinfo =2; 	
+   	optional UserInfoMsg userinfo =3;
+  	optional DepotInfoMsg depotinfo =4;
+	optional DataResultMsg dataResult=5;
+	optional string begintime=6;
+	optional string endtime=7;	
+	optional int32 nOpType=8;						//0,上传；1，下载；2，删除
+	
+	optional TimerInstructRequestMsg timerInfo =9;
+	optional VentilateControlMsg ventilateInfo=10;	
+	optional AdminPassword adminpasswprd=11;
+	repeated int32 depotid =12;       				//仓库ID,目前只是用于同步DataResult
+	optional DataResultType dataresulttype=13;    	//数据类型
+	optional RequestAlarmInfoType requesttype=14;   //请求报警消息类型
+	optional int32 requestalarminfototal=15;        //需要获取报警信息的数目
+	optional int32 pagenum=16;                      //分页显示，pagenum为第几页，每页10条数据  注：分页显示不需要ID
+	repeated int32 alarminfoid=17;                  //报警信息ID
+	optional AlarmMsg alarmmsg = 18;                //视频图片报警  //与alarmmsg同时生效则请求的是视频图片报警，否则为温度报警
+	optional DeviceInfo deviceinfo = 19;            //视频报警设备号
+	optional UserInfoMsg insertUserInfo=20;			//170724插入、删除用户信息
+	optional InsertUsDeMsg insertUserDepot=21;		//170724插入、请求用户仓库对应信息
+	optional DownMasSubInfo massubinfo=22;			//170724请求下载主子用户信息
+}
+
+//170724
+message MasterSubuserInfo
+{
+	optional int32 masuserid=1;//主用户id
+	repeated int32 subuserid=2;//子用户id
+	repeated string subusername=3;//子用户名字
+}
+
+message SynchInformationResponseMsg	// server-->client
+{
+	// 包含了其他数据库的消息
+	optional RetCode retcode = 1;
+	optional UserInfoMsg userinfo =2;
+	repeated ModuleInfoMsg moduleinfo =3;	
+   	repeated DepotInfoMsg depotinfo =4;
+  	repeated DataResultMsg dataresult =5;
+   	optional TimerInstructRequestMsg timerInfo=6;
+	optional AdminPassword adminpasswprd=7;
+	repeated VentilateControlMsg ventilateInfo=8;
+	optional DataResultType dataresulttype=9;     //数据类型
+	optional int32 count=10;                      //报警信息总数
+	optional int32 userid=11;                     //用户id
+	repeated AlarmMsg alarminfo = 12;
+	repeated DeviceInfo deviceinfo = 13;          //视频报警设备信息
+	optional MasterSubuserInfo massubuserinfo=14;	//170724主用户子用户对应关系
+	repeated DepotInfoMsg subdepotinfo =15;			//170724子用户的仓库信息
+}
+
+/*************************************************************\
+ * 	
+ *	销毁实例请求消息与销毁实例响应消息
+ *	
+ \************************************************************/
+message DestroyInstanceRequestMsg
+{
+	optional int32 sessionid =1;	//销毁实例时，用户发送sessionid，Ser就会对相应session响应
+}
+message DestroyInstanceResponseMsg
+{
+	optional  RetCode retcode = 1;
+}
+
+/*************************************************************\
+ * 	
+ *	登出请求消息与登出响应消息
+ *	
+ \************************************************************/
+message LogoutRequestMsg
+{
+	optional int32 voidcontent =1;
+}
+message LogoutResponseMsg
+{
+	optional  RetCode retcode = 1;
+}
+
+/*************************************************************\
+ * 	数据库存储的消息结构
+ *	每个消息对应着数据库中的相应的数据表的内容
+ *	
+ \************************************************************/
+
+/*************************************************************\
+ * 	
+ *  	硬件视频主动发送报警信息	
+ *	
+ \************************************************************/
+message DeviceInfo
+{
+	optional string devicename = 1;      			//设备名
+	optional string domainname = 2;      			//域名或IP
+	optional int32 port = 3;			 			//tcp端口号
+	optional int32 httpport = 4;         			//http端口号
+	optional string username = 5;	 	 			//用户名
+	optional string password = 6;        			//密码
+	repeated IpCameraInfo ipCameraInfo=7;   		//ip摄像头信息
+} 
+message IpCameraInfo
+{
+	optional string Ip= 1;      					//Ip地址
+	optional string IpName= 2;      				//IpCamera名称
+}
+
+message AlarmMsg
+{
+	optional string passagewayid = 1;     			//通道号
+	optional string starttime = 2;       			//起始时间
+	optional string devicename = 3;      			//设备号
+	optional string PictureURL = 4;      			//图片URL
+	optional int32 alarminfoid = 5;      			//报警信息ID
+	optional int32 isreaded = 6;         			//1:已读;0:未读
+}
+
+
+
+
+/*************************************************************\
+ * 	
+ *	用户管理表
+ *	
+ \************************************************************/
+message UserInfoMsg
+{
+	optional string username =1;			    //用户名
+	optional string password =2;			    //密码
+	optional string lastlogintime =3;		    //最后登录时间(第一个时间是上次登录时间，第二个是当前登录时间 例如:2015-06-10 12:12,2015-06-10 14:12)
+	optional string usertype =4;			    //用户类型
+	optional string mobilenum =5;			    //用户的移动号码
+	optional string telnum =6;			        //用户电话号码
+	optional string realname =7;			    //真实名字
+	optional string province =8;			    //所在省份
+	optional string city =9;			        //所在城市
+	optional string county =10;			        //所在县（区）
+	optional string address =11;			    //地址
+	optional string regtime =12;			    //注册时间
+	optional string company =13;			    //工作单位
+	optional string job =14;			        //职业
+	optional string expend =15;			        //扩展信息
+	optional UserSettingMsg userSettingMsg=16;  //用户个性配置信息
+	optional string image=17;			        //背景图片
+	optional int32 clientsetting=18;            //客户设置
+	optional string companyname=19;             //公司名称
+	optional string companyaddress=20;          //公司地址
+	optional string installdate=21;             //安装日期
+	optional string installstuff=22;            //安装人员
+	optional string contactor=23;               //客户联系人
+	optional int32 contactphone=24;             //客户联系电话
+	optional string fontsize=25;                //客户设置字体大小
+	optional string bannersize=26;              //标题大小
+	optional int32  printdivide=27;             //打印设置 1代表分页 0代表不分页
+	optional int32  table=28;                   //报表设置 1代表不要数字卡片 0代表需要数字卡片 
+	optional int32  extreme=29;                 //温度显示 1代表不需要高低温 0代表需要高低温
+	optional int32  isAccess=30;                //是否保存到本地数据库
+	optional int32  isDataprocess=31;           //是否进行数据特殊处理
+	optional int32  tempMax=32;                 //温度处理最大值
+	optional int32	isShowTempData=33;	        //是否显示温度数据 0表示需要 1表示不需要
+	optional int32	isShowHumiData=34;	        //是否显示湿度数据 0表示需要 1表示不需要
+	optional int32	isShowLiaoWei=35;	        //是否显示料位数据 0表示需要 1表示不需要
+	optional int32  isShowCO2Data=36;           //是否显示co2数据  0表示需要 1表示不需要
+	optional int32  isShowO2Data=37;            //是否显示o2数据   0表示需要 1表示不需要
+	optional int32  isShowPH3Data=38;           //是否显示ph3数据  0表示需要 1表示不需要
+	optional string homeTitle=39;				//主页标题
+	optional int32 	homeTitlesize=40;			//主页标题自已大小
+	optional int32  trendInterval=41;           //趋势图显示时间间隔
+	optional DownLoadDataresultType downloaddataresulttype=42;//20170113
+	optional string Eleusername=43;				//电器安全登陆的用户名20170710
+	optional string Elepassword=44;				//电器安全登陆的密码20170710
+	optional UserGrade usergrade=45;			//用户等级，若没有该字段则认为是二级。170724
+	optional int32  AccessTempmax=46;           //用来设置access数据库的最高温度  171028zp
+}
+
+//管理员权限密码
+message AdminPassword
+{
+	optional string adminpassword=1; //管理员密码
+}
+
+//用户个性配置信息
+message UserSettingMsg 
+{
+	optional string gs_name =1;					//公司名
+	optional double alarmtemp_high =2;			//报警温度——高温
+	optional double alarmtemp_low =3;			//报警温度——低温	
+
+}
+/*************************************************************\
+ * 	
+ *	3G模块信息
+ *	
+ \************************************************************/
+message ModuleInfoMsg
+{
+	optional string   moduleName = 1;		//3G模块的id
+	optional string   location = 2;			//模块的位置
+	optional string   company = 3;			//所属公司
+	optional string   mobilenum = 4;        //3G模块通信卡号
+    repeated int32	  FenJiNum=5;		//分机号
+}
+
+/*************************************************************\
+ * 	
+ *	仓库信息
+ *	
+ \************************************************************/
+message DepotInfoMsg
+{
+	message PastisCg //0611
+	{               
+		optional  string  pasallname = 1;					              		
+	} 
+	optional int32  id =1;						//仓库Id
+	optional string moudlename = 2;				//仓库中的3G模块名
+	optional string depotName =3; 				//仓库名	
+	optional string company =4;					//相关公司
+	optional string depotType =5;				//仓库类型
+	optional string depotContent =6;			//仓库内容
+	optional string depotPlace =7;				//仓库位置
+	optional string havestTime =8;				//粮食收货时间
+	optional string storeTime =9;				//粮食入库时间
+	optional string storeType =10;				//存储类型
+	optional string storeWater =11;				//入仓时粮食水分
+	optional string nowWater =12;				//当下粮食水分
+	optional string depotRank =13;				//仓库等级
+	optional string rongzhong =14;				//容重
+	optional float deoptlength=15;              //平方仓库长
+  	optional float deoptWidth=16;               //平方仓库宽
+	optional DepotSettingMsg depotsetting =17;  ///仓库配置	
+	optional HardwareType  hardwareType = 18 ;	////影响指令
+  	optional string ricetype=19;				//粮食品种
+	optional string originplace=20;				//产地
+	optional string currentstore=21;			//实际储量
+	optional string buwansanli=22;				//不完善粒
+	optional string zazhi=23;					//杂质
+	optional string storeman=24;				//保管员
+	optional string analysis=25;				//粮情分析
+	optional string weather=26;					//天气
+	optional double alarmtemp_high =27;			//报警温度——高温
+	optional double alarmtemp_low =28;			//报警温度——低温
+ 	optional string textman=29;					//保管员
+	optional  float  ratio=30 ;					//料位 y=kx+b k系数
+    optional  float deviation=31; 				//料位 y=kx+b b  误差deviation
+    optional  float total=32 ; 					//料位 总量 H
+    optional string unit=33;  					//单位 m、t
+	optional string duiWei=34;  				//堆位
+	repeated PastisCg category=35;				//害虫类别170611
+
+}
+
+
+/*************************************************************\
+ * 	
+ *	仓库配置	
+ *	
+ \************************************************************/				
+message DepotSettingMsg 
+{
+	repeated SubmachineInfo subMachines = 1 ;		//分机信息
+	repeated ErrorPointSet errpoints = 2 ;
+	
+}
+
+/*************************************************************\
+ * 	
+ *	分机信息	
+ *	
+ \************************************************************/	
+message SubmachineInfo
+{
+       
+	optional string addr =1;				//分机地址
+	repeated ChannelInfo channels =2;		//分机对应的多个通道信息
+	optional string logicRouteNum =3;		//逻辑路数
+	optional string logicRoute =4;			//逻辑路径
+	optional string routine=5;              //路由信息
+ 	optional string name=6;					//分机名
+	
+	
+	message ChannelRelated
+	{
+		optional string relatedSubmachineId=1; //分机地址
+		optional string relatedchannelId=2;   //如果为通风机或排风机，配置对应的通风口或门窗
+	}
+	//分机中通道信息
+	message ChannelInfo
+	{
+		optional string channelId = 1;					//通道号
+		optional string pointCount = 2;					//设备点个数
+		optional ChannelType channelType = 3;			//通道类型
+		optional HumiCableType humiCableType=4;                //测湿电缆类型
+        optional VentilateMechine ventilateMechine =5;           //通风设备类型
+		repeated ChannelRelated channelrelated=6;     
+	}
+}
+
+//纠错设置
+message ErrorPointSet
+{
+	optional int32 addr =1;					//分机地址
+	optional string channelId =2;			//通道号
+	optional int32 errIndex =3;				//错误点的索引
+}
+	
+/*************************************************************\
+ * 	
+ *	通风控制参数信息	
+ *	
+ \************************************************************/	
+message VentilateControlMsg 
+{
+	optional int32 depotId=1;
+	optional string modulename =2;
+	
+	//通风参数设置
+	optional VentilateType  ventType = 3;	//通风的类型:自动,手动
+		
+	optional float InTemp_OutTemp=4;	//仓内空间温度-外界环境温度
+	optional float averTemp_OutTemp=5;	//粮队平均温度-外界环境温度
+	optional float InHum_OutHum=6;		//仓内空间湿度-外界环境湿度
+	optional float InAverTemp=7;		//仓内平均温度
+	optional float CloseVentTemp=8;		//关闭通风温度差值
+	optional float OutHum=9;		//仓外空间湿度
+
+	//通风指令队列
+	repeated string On_ventinstructs = 10;			//开指令队列 1,open    //3,test更新状态
+	repeated string Off_ventinstructs = 11;			//关指令队列 2,close  //3,test更新状态
+
+        optional int32  operatewindows=12;   //门窗操作权限—0可操作 1不可操作
+ 	optional int32  operatewind=13;     //通风口操作权限—0可操作 1不可操作
+ 	optional int32  operateoutfeng=14;     //排风机操作权限—0可操作 1不可操作
+  	optional int32  operateintofeng=15;     //通风机操作权限—0可操作 1不可操作
+
+
+}
+
+/*************************************************************\
+ * 	
+ *	测温结果信息
+ *	
+ \************************************************************/
+message DataResultMsg
+{	
+	//测温传感器
+	message TempPoint
+	{
+		optional string rawData = 1;					//原始十六进制数据
+		optional float value = 2;						//经过计算后的值
+		optional PointErrType errType =3;				//错误类型
+               
+	}
+	
+	//测湿度
+	message HumPoint
+	{
+		//optional string rawData = 1;					//原始十六进制数据
+		optional float value = 2;						//经过计算后的值
+		optional PointErrType errType = 3;				//错误类型             
+	}
+
+	message VentPoint
+	{
+		optional VentilateState ventilatestate = 1;		//通风状态
+	}
+	//170222
+	message AirctPoint
+	{		
+		optional AirctState airctstate=1;//空调开关状态
+		optional WindState windstate=2;//大风小风
+		optional int32 temp=3;//温度
+		optional PointErrType errType=4;//错误类型
+	}
+	//测虫170611
+	message PastisPoint
+	{					
+		optional float value = 1;						//经过计算后的值:电容值
+		optional PointErrType errType =2;				//错误类型
+               
+	}
+	//测温电缆
+	message TempCable 
+	{              			
+		repeated  TempPoint  points = 1;                //电缆上的测温点
+        optional int32 TemcableData=2;		        	//0,正常数据；1，空；	
+        optional string ChannelID=3;                    //仅仅用于线槽，值为指令后两位      
+	} 
+
+  //测湿电缆
+	message HumCable 
+	{ 
+              
+		repeated  HumPoint  points = 1;					//电缆上的测湿点
+        optional int32 HumcableData=2;	        		//0,正常数据；1，空；
+        optional int32 HumCableType=3;       			//0,表示室内电缆；1，表示室外电缆
+		optional string ChannelID=4;                    //仅仅用于大棚，值为指令后两位	
+		
+	} 
+	message VentCable
+	{
+		repeated VentPoint points = 1;
+		optional int32 VentCableState=2;   				//0 表示硬件没有返回通风状态 ；1 表示 硬件返回了通风状态
+	}
+	
+	message CablePoint
+	{
+		optional float value = 1;						//经过计算后的值
+		optional PointErrType errType = 2;				//错误类型     
+	}
+	//料位
+	message LiaoWeoCable
+	{
+		repeated CablePoint points = 1;
+		optional int32 HavecableData=2;		         	//0,正常数据；1，空；
+	}
+	//硫化氢
+	message H2SCable
+	{
+		repeated CablePoint points = 1;
+		optional int32 HavecableData=2;		        	//0,正常数据；1，空；
+	}
+	//氧气
+	message OxygenCable
+	{
+		repeated CablePoint points = 1;
+		optional int32 HavecableData=2;		       		//0,正常数据；1，空；
+	}
+	//CO2
+	message CO2Cable
+	{
+		repeated CablePoint points = 1;
+		optional int32 HavecableData=2;		        	//0,正常数据；1，空；
+		optional string ChannelID=3; 
+	}
+	//LUX
+	message LUXCable
+	{
+		repeated CablePoint points = 1;
+		optional int32 HavecableData=2;		     		//0,正常数据；1，空；
+		optional string ChannelID=3;                    //仅仅用于大棚，值为指令后两位	
+	}
+	//SOILHUMI
+	message SOILHUMICable
+	{
+		repeated CablePoint points = 1;
+		optional int32 HavecableData=2;					//0,正常数据；1，空；
+		optional string ChannelID=3;                    //仅仅用于大棚，值为指令后两位	
+	}
+	//PHSY
+	message PhsyCable
+	{
+		repeated CablePoint points=1;
+		optional int32 HavecableData=2;
+		optional string ChannelID=3; 
+	}
+	//空调170222
+	message AirctCable
+	{
+		repeated AirctPoint points = 1;
+		optional int32 AirctCableState=2;  		
+	}
+	//测虫170611
+	message PastisCable 
+	{              			
+		repeated  PastisPoint  points = 1;                
+        optional int32 HavecableData=2;		        	//0,正常数据；1，空；	     
+	} 
+
+	optional int32  depotid =1;         				//仓库ID
+	optional string datatime =2 ; 						//测温时间 
+	repeated TempCable cables =3;
+	repeated HumCable humcables =4;
+	repeated VentCable ventcables =5;
+	optional int32 sesssionid=6;	
+	repeated LiaoWeoCable laoweicable=7;				//料位
+	repeated H2SCable h2scable=8;						//磷化氢气体
+	repeated OxygenCable oxygencable=9;					//氧气
+	repeated CO2Cable co2cable=10;						//CO2气体
+	optional DownLoadDataresultType downloadDataType=11;//同步历史数据的类型
+	optional string measureman=12;						//当前数据，检测人员的姓名
+	optional int32 alarminfoid=13;       				//报警信息ID
+	optional int32 isreaded=14;         				//1:已读;0:未读
+	repeated LUXCable luxcable=15;      				//光照强度
+	repeated SOILHUMICable soilhumicable=16;			//土壤温湿度
+	repeated PhsyCable phsycable=17; 					//光合作用有效强度
+	repeated AirctCable airctcable=18;					//空调状态170222
+	repeated PastisCable pastiscable=19;				//测虫170611   虫子的所有类别——每种类别的所有虫子的名字
+}
+
+/*************************************************************\
+ * 	
+ *	超时消息（无实际意义ClientDll使用）
+ *	
+ \************************************************************/
+message TimeOutMsg
+{
+	optional  RetCode  retcode = 1;
+}

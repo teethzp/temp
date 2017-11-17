@@ -1,0 +1,5310 @@
+sessionid: 635
+depotid: 489
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-01-25 8:00:00"
+cycleindex: 100000
+instructs: "ABC0052,030102000000010111,24"
+instructs: "ABC0052,030102000000010112,24"
+instructs: "ABC0052,030102000000010113,24"
+instructs: "ABC0052,030102000000010114,24"
+instructs: "ABC0052,030102000000010115,24"
+instructs: "ABC0052,030102000000010116,24"
+instructs: "ABC0052,030102000000010117,24"
+instructs: "ABC0052,030102000000010118,24"
+instructs: "ABC0052,030102000000010119,24"
+instructs: "ABC0052,03010200000001011A,24"
+instructs: "ABC0052,03010200000001011B,24"
+instructs: "ABC0052,03010200000001011C,24"
+instructs: "ABC0052,03010200000001011D,24"
+instructs: "ABC0052,0301020000000101210,1"
+instructs: "ABC0052,0301040000000101231,1"
+hardwaretype: 1
+
+sessionid: 635
+depotid: 522
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-01-25 8:00:00"
+cycleindex: 100000
+instructs: "ABC0052,030103000000010111,24"
+instructs: "ABC0052,030103000000010112,24"
+instructs: "ABC0052,030103000000010113,24"
+instructs: "ABC0052,030103000000010114,24"
+instructs: "ABC0052,030103000000010115,24"
+instructs: "ABC0052,030103000000010116,24"
+instructs: "ABC0052,030103000000010117,24"
+instructs: "ABC0052,030103000000010118,24"
+instructs: "ABC0052,030103000000010119,24"
+instructs: "ABC0052,03010300000001011A,24"
+instructs: "ABC0052,03010300000001011B,24"
+instructs: "ABC0052,03010300000001011C,24"
+instructs: "ABC0052,03010300000001011D,24"
+instructs: "ABC0052,0301030000000101220,1"
+instructs: "ABC0052,0301040000000101231,1"
+hardwaretype: 1
+
+sessionid: 635
+depotid: 523
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-01-25 8:00:00"
+cycleindex: 100000
+instructs: "ABC0052,030104000000010111,24"
+instructs: "ABC0052,030104000000010112,24"
+instructs: "ABC0052,030104000000010113,24"
+instructs: "ABC0052,030104000000010114,24"
+instructs: "ABC0052,030104000000010115,24"
+instructs: "ABC0052,030104000000010116,24"
+instructs: "ABC0052,030104000000010117,24"
+instructs: "ABC0052,030104000000010118,24"
+instructs: "ABC0052,030104000000010119,24"
+instructs: "ABC0052,03010400000001011A,24"
+instructs: "ABC0052,03010400000001011B,24"
+instructs: "ABC0052,03010400000001011C,24"
+instructs: "ABC0052,03010400000001011D,24"
+instructs: "ABC0052,0301040000000101220,1"
+instructs: "ABC0052,0301040000000101231,1"
+hardwaretype: 1
+
+sessionid: 635
+depotid: 524
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-01-25 8:00:00"
+cycleindex: 100000
+instructs: "ABC0052,030105000000010111,24"
+instructs: "ABC0052,030105000000010112,24"
+instructs: "ABC0052,030105000000010113,24"
+instructs: "ABC0052,030105000000010114,24"
+instructs: "ABC0052,030105000000010115,24"
+instructs: "ABC0052,030105000000010116,24"
+instructs: "ABC0052,030105000000010117,24"
+instructs: "ABC0052,030105000000010118,24"
+instructs: "ABC0052,030105000000010119,24"
+instructs: "ABC0052,03010500000001011A,24"
+instructs: "ABC0052,03010500000001011B,24"
+instructs: "ABC0052,03010500000001011C,24"
+instructs: "ABC0052,03010500000001011D,24"
+instructs: "ABC0052,0301050000000101210,1"
+instructs: "ABC0052,0301040000000101231,1"
+hardwaretype: 1
+
+sessionid: 1172
+depotid: 580
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 201600
+cycleindex: 100000
+instructs: "ABC0018,030102000000010111,24"
+instructs: "ABC0018,030102000000010112,24"
+instructs: "ABC0018,030102000000010113,24"
+instructs: "ABC0018,030102000000010114,24"
+instructs: "ABC0018,030102000000010115,24"
+instructs: "ABC0018,030102000000010116,24"
+instructs: "ABC0018,030102000000010117,24"
+instructs: "ABC0018,0301040000000101211,1"
+instructs: "ABC0018,0301040000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016-Mar-03 13:21:20.955221"
+
+sessionid: 1172
+depotid: 581
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 201600
+cycleindex: 100000
+instructs: "ABC0018,030102000000010118,24"
+instructs: "ABC0018,030102000000010119,24"
+instructs: "ABC0018,03010200000001011a,24"
+instructs: "ABC0018,03010200000001011b,24"
+instructs: "ABC0018,03010200000001011c,24"
+instructs: "ABC0018,03010200000001011d,24"
+instructs: "ABC0018,03010200000001011e,24"
+instructs: "ABC0018,0301020000000101230,1"
+instructs: "ABC0018,0301040000000101211,1"
+hardwaretype: 1
+starttimerPeriod: "2016-Mar-03 13:21:20.955221"
+
+sessionid: 1172
+depotid: 582
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 201600
+cycleindex: 100000
+instructs: "ABC0018,0301030000000101220,1"
+instructs: "ABC0018,030103000000010111,24"
+instructs: "ABC0018,030103000000010112,24"
+instructs: "ABC0018,030103000000010113,24"
+instructs: "ABC0018,030103000000010114,24"
+instructs: "ABC0018,030103000000010115,24"
+instructs: "ABC0018,030103000000010116,24"
+instructs: "ABC0018,030103000000010117,24"
+instructs: "ABC0018,0301040000000101211,1"
+hardwaretype: 1
+starttimerPeriod: "2016-Mar-03 13:21:20.955221"
+
+sessionid: 1172
+depotid: 583
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 201600
+cycleindex: 100000
+instructs: "ABC0018,030103000000010118,24"
+instructs: "ABC0018,030103000000010119,24"
+instructs: "ABC0018,03010300000001011a,24"
+instructs: "ABC0018,03010300000001011b,24"
+instructs: "ABC0018,03010300000001011c,24"
+instructs: "ABC0018,03010300000001011d,24"
+instructs: "ABC0018,03010300000001011e,24"
+instructs: "ABC0018,0301030000000101230,1"
+instructs: "ABC0018,0301040000000101211,1"
+hardwaretype: 1
+starttimerPeriod: "2016-Mar-03 13:21:20.955221"
+
+sessionid: 2105
+depotid: 292
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0010,030103000000010122,1"
+instructs: "ABC0010,030107000000010111,60"
+instructs: "ABC0010,030107000000010112,60"
+instructs: "ABC0010,030107000000010113,60"
+instructs: "ABC0010,030107000000010114,20"
+instructs: "ABC0010,030107000000010121,1"
+hardwaretype: 1
+starttimerPeriod: "2016-Mar-03 13:21:20.955221"
+
+sessionid: 718
+depotid: 594
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 144
+cycleindex: 100000
+instructs: "ABC7777,030101000000010111,35"
+instructs: "ABC7777,030101000000010112,35"
+instructs: "ABC7777,030101000000010113,56"
+instructs: "ABC7777,030101000000010114,56"
+instructs: "ABC7777,030101000000010115,56"
+instructs: "ABC7777,030101000000010116,56"
+instructs: "ABC7777,030101000000010117,56"
+instructs: "ABC7777,030101000000010118,56"
+instructs: "ABC7777,030101000000010119,56"
+instructs: "ABC7777,0301010000000101210,1"
+instructs: "ABC7777,0301010000000101221,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/7 16:26:47"
+
+sessionid: 718
+depotid: 597
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 144
+cycleindex: 100000
+instructs: "ABC7777,030102000000010111,56"
+instructs: "ABC7777,030102000000010112,56"
+instructs: "ABC7777,030102000000010113,56"
+instructs: "ABC7777,030102000000010114,56"
+instructs: "ABC7777,030102000000010115,56"
+instructs: "ABC7777,030102000000010116,56"
+instructs: "ABC7777,030102000000010117,56"
+instructs: "ABC7777,030102000000010118,56"
+instructs: "ABC7777,030102000000010119,56"
+instructs: "ABC7777,0301020000000101210,1"
+instructs: "ABC7777,0301020000000101221,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/7 16:26:47"
+
+sessionid: 2971
+depotid: 180
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020211,10"
+instructs: "ABC0005,020212,10"
+instructs: "ABC0005,020213,10"
+instructs: "ABC0005,020214,10"
+instructs: "ABC0005,020215,10"
+
+sessionid: 2971
+depotid: 181
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020311,10"
+instructs: "ABC0005,020312,10"
+instructs: "ABC0005,020313,10"
+instructs: "ABC0005,020314,10"
+instructs: "ABC0005,020315,10"
+
+sessionid: 2971
+depotid: 182
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020411,10"
+instructs: "ABC0005,020412,10"
+instructs: "ABC0005,020413,10"
+instructs: "ABC0005,020414,10"
+instructs: "ABC0005,020415,10"
+
+sessionid: 2971
+depotid: 183
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020511,10"
+instructs: "ABC0005,020512,10"
+instructs: "ABC0005,020513,10"
+instructs: "ABC0005,020514,10"
+instructs: "ABC0005,020515,10"
+
+sessionid: 2971
+depotid: 184
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020611,10"
+instructs: "ABC0005,020612,10"
+instructs: "ABC0005,020613,10"
+instructs: "ABC0005,020614,10"
+instructs: "ABC0005,020615,10"
+
+sessionid: 2971
+depotid: 185
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020711,10"
+instructs: "ABC0005,020712,10"
+instructs: "ABC0005,020713,10"
+instructs: "ABC0005,020714,10"
+instructs: "ABC0005,020715,10"
+
+sessionid: 2971
+depotid: 186
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020811,10"
+instructs: "ABC0005,020812,10"
+instructs: "ABC0005,020813,10"
+instructs: "ABC0005,020814,10"
+instructs: "ABC0005,020815,10"
+
+sessionid: 3216
+depotid: 552
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,030102000000010117,28"
+instructs: "ABC0034,030102000000010118,28"
+instructs: "ABC0034,030102000000010119,28"
+instructs: "ABC0034,03010200000001011A,28"
+instructs: "ABC0034,03010200000001011B,28"
+instructs: "ABC0034,03010200000001011C,28"
+instructs: "ABC0034,0301020000000101220,1"
+instructs: "ABC0034,03010B0000000101211,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 553
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030103000000010111,20"
+instructs: "ABC0034,030103000000010112,20"
+instructs: "ABC0034,030103000000010113,20"
+instructs: "ABC0034,030103000000010114,20"
+instructs: "ABC0034,030103000000010115,20"
+instructs: "ABC0034,030103000000010116,20"
+instructs: "ABC0034,030103000000010117,20"
+instructs: "ABC0034,0301030000000101210,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 554
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030103000000010118,20"
+instructs: "ABC0034,030103000000010119,20"
+instructs: "ABC0034,03010300000001011A,20"
+instructs: "ABC0034,03010300000001011B,20"
+instructs: "ABC0034,03010300000001011C,20"
+instructs: "ABC0034,03010300000001011D,20"
+instructs: "ABC0034,03010300000001011E,20"
+instructs: "ABC0034,0301030000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 555
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030104000000010111,20"
+instructs: "ABC0034,030104000000010112,20"
+instructs: "ABC0034,030104000000010113,20"
+instructs: "ABC0034,030104000000010114,20"
+instructs: "ABC0034,030104000000010115,20"
+instructs: "ABC0034,030104000000010116,20"
+instructs: "ABC0034,030104000000010117,20"
+instructs: "ABC0034,0301040000000101210,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 556
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030104000000010118,20"
+instructs: "ABC0034,030104000000010119,20"
+instructs: "ABC0034,03010400000001011A,20"
+instructs: "ABC0034,03010400000001011B,20"
+instructs: "ABC0034,03010400000001011C,20"
+instructs: "ABC0034,03010400000001011D,20"
+instructs: "ABC0034,03010400000001011E,20"
+instructs: "ABC0034,0301040000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 557
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030105000000010111,24"
+instructs: "ABC0034,030105000000010112,24"
+instructs: "ABC0034,030105000000010113,24"
+instructs: "ABC0034,030105000000010114,24"
+instructs: "ABC0034,030105000000010115,24"
+instructs: "ABC0034,030105000000010116,24"
+instructs: "ABC0034,030105000000010117,24"
+instructs: "ABC0034,030105000000010118,24"
+instructs: "ABC0034,030105000000010119,24"
+instructs: "ABC0034,03010500000001011A,24"
+instructs: "ABC0034,0301050000000101220,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 558
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030106000000010111,24"
+instructs: "ABC0034,030106000000010112,24"
+instructs: "ABC0034,030106000000010113,24"
+instructs: "ABC0034,030106000000010114,24"
+instructs: "ABC0034,030106000000010115,24"
+instructs: "ABC0034,030106000000010116,24"
+instructs: "ABC0034,030106000000010117,24"
+instructs: "ABC0034,030106000000010118,24"
+instructs: "ABC0034,030106000000010119,24"
+instructs: "ABC0034,03010600000001011A,24"
+instructs: "ABC0034,0301060000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 559
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030107000000010111,24"
+instructs: "ABC0034,030107000000010112,24"
+instructs: "ABC0034,030107000000010113,24"
+instructs: "ABC0034,030107000000010114,24"
+instructs: "ABC0034,030107000000010115,24"
+instructs: "ABC0034,030107000000010116,24"
+instructs: "ABC0034,030107000000010117,24"
+instructs: "ABC0034,030107000000010118,24"
+instructs: "ABC0034,030107000000010119,24"
+instructs: "ABC0034,03010700000001011A,24"
+instructs: "ABC0034,0301070000000101220,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 560
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030108000000010111,24"
+instructs: "ABC0034,030108000000010112,24"
+instructs: "ABC0034,030108000000010113,24"
+instructs: "ABC0034,030108000000010114,24"
+instructs: "ABC0034,030108000000010115,24"
+instructs: "ABC0034,030108000000010116,24"
+instructs: "ABC0034,030108000000010117,24"
+instructs: "ABC0034,030108000000010118,24"
+instructs: "ABC0034,030108000000010119,24"
+instructs: "ABC0034,03010800000001011A,24"
+instructs: "ABC0034,0301080000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 561
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030109000000010111,24"
+instructs: "ABC0034,030109000000010112,24"
+instructs: "ABC0034,030109000000010113,24"
+instructs: "ABC0034,030109000000010114,24"
+instructs: "ABC0034,030109000000010115,24"
+instructs: "ABC0034,030109000000010116,24"
+instructs: "ABC0034,030109000000010117,24"
+instructs: "ABC0034,030109000000010118,24"
+instructs: "ABC0034,030109000000010119,24"
+instructs: "ABC0034,03010900000001011A,24"
+instructs: "ABC0034,0301090000000101220,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 562
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,03010A000000010111,24"
+instructs: "ABC0034,03010A000000010112,24"
+instructs: "ABC0034,03010A000000010113,24"
+instructs: "ABC0034,03010A000000010114,24"
+instructs: "ABC0034,03010A000000010115,24"
+instructs: "ABC0034,03010A000000010116,24"
+instructs: "ABC0034,03010A000000010117,24"
+instructs: "ABC0034,03010A000000010118,24"
+instructs: "ABC0034,03010A000000010119,24"
+instructs: "ABC0034,03010A00000001011A,24"
+instructs: "ABC0034,03010A0000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 563
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B000000010111,24"
+instructs: "ABC0034,03010B000000010112,24"
+instructs: "ABC0034,03010B000000010113,24"
+instructs: "ABC0034,03010B000000010114,24"
+instructs: "ABC0034,03010B000000010115,24"
+instructs: "ABC0034,03010B000000010116,24"
+instructs: "ABC0034,03010B000000010117,24"
+instructs: "ABC0034,03010B000000010118,24"
+instructs: "ABC0034,03010B000000010119,24"
+instructs: "ABC0034,03010B00000001011A,24"
+instructs: "ABC0034,03010B0000000101220,1"
+instructs: "ABC0034,03010B0000000101211,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 564
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,03010C000000010111,24"
+instructs: "ABC0034,03010C000000010112,24"
+instructs: "ABC0034,03010C000000010113,24"
+instructs: "ABC0034,03010C000000010114,24"
+instructs: "ABC0034,03010C000000010115,24"
+instructs: "ABC0034,03010C000000010116,24"
+instructs: "ABC0034,03010C000000010117,24"
+instructs: "ABC0034,03010C000000010118,24"
+instructs: "ABC0034,03010C000000010119,24"
+instructs: "ABC0034,03010C00000001011A,24"
+instructs: "ABC0034,03010C0000000101210,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 5
+depotid: 602
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC7777,030102000000010111,35"
+instructs: "ABC7777,030102000000010112,35"
+instructs: "ABC7777,0301020000000101210,1"
+instructs: "ABC7777,0301010000000101221,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/21 19:56:32"
+
+sessionid: 5
+depotid: 603
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC7777,030101000000010111,35"
+instructs: "ABC7777,030101000000010112,35"
+instructs: "ABC7777,030101000000010113,35"
+instructs: "ABC7777,030101000000010114,35"
+instructs: "ABC7777,030101000000010115,35"
+instructs: "ABC7777,030101000000010116,35"
+instructs: "ABC7777,030101000000010117,35"
+instructs: "ABC7777,030101000000010118,35"
+instructs: "ABC7777,030101000000010119,35"
+instructs: "ABC7777,0301010000000101210,1"
+instructs: "ABC7777,0301010000000101221,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/21 19:56:32"
+
+sessionid: 381
+depotid: 571
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-24 7:40:00"
+cycleindex: 100000
+instructs: "ABC0046,030103000000010111,20"
+instructs: "ABC0046,030103000000010112,20"
+instructs: "ABC0046,030103000000010113,20"
+instructs: "ABC0046,030103000000010114,20"
+instructs: "ABC0046,030103000000010115,20"
+instructs: "ABC0046,030103000000010116,20"
+instructs: "ABC0046,030103000000010117,20"
+instructs: "ABC0046,030103000000010118,20"
+instructs: "ABC0046,0301030000000101210,1"
+instructs: "ABC0046,0301030000000101221,1"
+hardwaretype: 1
+
+sessionid: 381
+depotid: 572
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-24 7:40:00"
+cycleindex: 100000
+instructs: "ABC0046,030102000000010111,20"
+instructs: "ABC0046,030102000000010112,20"
+instructs: "ABC0046,030102000000010113,20"
+instructs: "ABC0046,030102000000010114,20"
+instructs: "ABC0046,030102000000010115,20"
+instructs: "ABC0046,030102000000010116,20"
+instructs: "ABC0046,030102000000010117,20"
+instructs: "ABC0046,030102000000010118,20"
+instructs: "ABC0046,0301020000000101210,1"
+instructs: "ABC0046,0301030000000101221,1"
+hardwaretype: 1
+
+sessionid: 381
+depotid: 573
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-24 7:40:00"
+cycleindex: 100000
+instructs: "ABC0046,030102000000010119,20"
+instructs: "ABC0046,03010200000001011A,20"
+instructs: "ABC0046,03010200000001011B,20"
+instructs: "ABC0046,03010200000001011C,20"
+instructs: "ABC0046,03010200000001011D,20"
+instructs: "ABC0046,03010200000001011E,20"
+instructs: "ABC0046,03010200000001011F,20"
+instructs: "ABC0046,030102000000010120,20"
+instructs: "ABC0046,0301020000000101210,1"
+instructs: "ABC0046,0301030000000101221,1"
+hardwaretype: 1
+
+sessionid: 106
+depotid: 570
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-04-05 7:40:00"
+cycleindex: 1
+instructs: "ABC0045,030102000000010111,28"
+instructs: "ABC0045,030102000000010112,28"
+instructs: "ABC0045,0301020000000101211,1"
+instructs: "ABC0045,0301020000000101220,1"
+instructs: "ABC0045,030102000000010113,28"
+instructs: "ABC0045,030102000000010114,28"
+instructs: "ABC0045,030102000000010115,28"
+instructs: "ABC0045,030102000000010116,28"
+instructs: "ABC0045,030102000000010117,28"
+instructs: "ABC0045,030102000000010118,28"
+instructs: "ABC0045,030102000000010119,28"
+instructs: "ABC0045,03010200000001011A,28"
+instructs: "ABC0045,03010200000001011B,28"
+instructs: "ABC0045,03010200000001011C,28"
+instructs: "ABC0045,03010200000001011D,28"
+hardwaretype: 1
+
+sessionid: 134218067
+depotid: 687
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC0066,030102000000010112,30"
+instructs: "ABC0066,030102000000010113,25"
+instructs: "ABC0066,030102000000010114,30"
+instructs: "ABC0066,030102000000010115,20"
+instructs: "ABC0066,030102000000010116,15"
+hardwaretype: 1
+starttimerPeriod: "2016/6/29 20:53:45"
+
+sessionid: 134218067
+depotid: 688
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC0066,030102000000010111,28"
+hardwaretype: 1
+starttimerPeriod: "2016/6/29 20:53:45"
+
+sessionid: 134218067
+depotid: 689
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC0066,030103000000010115,15"
+instructs: "ABC0066,030103000000010116,30"
+instructs: "ABC0066,030103000000010117,28"
+hardwaretype: 1
+starttimerPeriod: "2016/6/29 20:53:45"
+
+sessionid: 134218067
+depotid: 690
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC0066,030103000000010111,30"
+instructs: "ABC0066,030103000000010112,25"
+instructs: "ABC0066,030103000000010113,18"
+instructs: "ABC0066,030103000000010114,28"
+hardwaretype: 1
+starttimerPeriod: "2016/6/29 20:53:45"
+
+sessionid: 134218067
+depotid: 691
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC0066,030104000000010111,25"
+instructs: "ABC0066,030104000000010112,30"
+instructs: "ABC0066,030104000000010113,21"
+instructs: "ABC0066,030104000000010114,15"
+instructs: "ABC0066,030104000000010115,18"
+instructs: "ABC0066,030105000000010111,23"
+instructs: "ABC0066,030105000000010112,28"
+instructs: "ABC0066,030105000000010113,15"
+instructs: "ABC0066,030105000000010114,21"
+instructs: "ABC0066,030104000000010116,30"
+instructs: "ABC0066,030104000000010117,30"
+instructs: "ABC0066,030105000000010115,20"
+instructs: "ABC0066,030105000000010116,20"
+hardwaretype: 1
+starttimerPeriod: "2016/6/29 20:53:45"
+
+sessionid: 134217891
+depotid: 652
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010112,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 660
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010113,25"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 661
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010114,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 662
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010115,20"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 663
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010116,15"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 664
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010111,28"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 665
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010115,28"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 666
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010116,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 667
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010117,15"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 668
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010111,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 669
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010112,25"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 670
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010113,18"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 671
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010114,28"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 672
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010111,25"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 673
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010112,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 674
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010113,21"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 675
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010114,15"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 676
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010115,18"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 677
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010111,23"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 678
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010112,28"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 679
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010113,15"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 680
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010114,21"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 681
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010116,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 682
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010117,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 683
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010115,20"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 684
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010116,20"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 43
+depotid: 576
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 32400
+cycleindex: 100000
+instructs: "ABC5000,030110000000010111,5"
+instructs: "ABC5000,030110000000010112,5"
+instructs: "ABC5000,030110000000010113,5"
+instructs: "ABC5000,030110000000010114,5"
+starttimerPeriod: "2016/8/17 20:37:11"
+
+sessionid: 8
+depotid: 697
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC5000,0301010000000101C1,5"
+instructs: "ABC5000,0301010000000101C2,5"
+starttimerPeriod: "2016/9/30 12:07:30"
+
+sessionid: 28
+depotid: 1
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 120
+cycleindex: 10000
+instructs: "IDT0001,030103000000010111,4"
+instructs: "IDT0001,030103000000010112,15"
+hardwaretype: 0
+starttimerPeriod: "2017/3/11 22:30:37"
+
+sessionid: 1
+depotid: 371
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 180
+cycleindex: 100000
+instructs: "ABC7778,030110000000010191,1"
+instructs: "ABC7778,0301100000000101A2,1"
+instructs: "ABC7778,0301100000000101B3,1"
+starttimerPeriod: "2017/8/29 16:34:35"
+timingtestingtype: Gas
+
+sessionid: 1
+depotid: 371
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 180
+cycleindex: 100000
+instructs: "ABC7778,0301ff000000010114,4"
+instructs: "ABC7778,030110000000010111,15"
+instructs: "ABC7778,030110000000010112,15"
+instructs: "ABC7778,030110000000010113,15"
+instructs: "ABC7778,030110000000010114,15"
+instructs: "ABC7778,0301100000000101210,1"
+instructs: "ABC7778,0301100000000101221,1"
+starttimerPeriod: "2017/8/29 16:42:49"
+timingtestingtype: TempHumi
+
+sessionid: 635
+depotid: 489
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-01-25 8:00:00"
+cycleindex: 100000
+instructs: "ABC0052,030102000000010111,24"
+instructs: "ABC0052,030102000000010112,24"
+instructs: "ABC0052,030102000000010113,24"
+instructs: "ABC0052,030102000000010114,24"
+instructs: "ABC0052,030102000000010115,24"
+instructs: "ABC0052,030102000000010116,24"
+instructs: "ABC0052,030102000000010117,24"
+instructs: "ABC0052,030102000000010118,24"
+instructs: "ABC0052,030102000000010119,24"
+instructs: "ABC0052,03010200000001011A,24"
+instructs: "ABC0052,03010200000001011B,24"
+instructs: "ABC0052,03010200000001011C,24"
+instructs: "ABC0052,03010200000001011D,24"
+instructs: "ABC0052,0301020000000101210,1"
+instructs: "ABC0052,0301040000000101231,1"
+hardwaretype: 1
+
+sessionid: 635
+depotid: 522
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-01-25 8:00:00"
+cycleindex: 100000
+instructs: "ABC0052,030103000000010111,24"
+instructs: "ABC0052,030103000000010112,24"
+instructs: "ABC0052,030103000000010113,24"
+instructs: "ABC0052,030103000000010114,24"
+instructs: "ABC0052,030103000000010115,24"
+instructs: "ABC0052,030103000000010116,24"
+instructs: "ABC0052,030103000000010117,24"
+instructs: "ABC0052,030103000000010118,24"
+instructs: "ABC0052,030103000000010119,24"
+instructs: "ABC0052,03010300000001011A,24"
+instructs: "ABC0052,03010300000001011B,24"
+instructs: "ABC0052,03010300000001011C,24"
+instructs: "ABC0052,03010300000001011D,24"
+instructs: "ABC0052,0301030000000101220,1"
+instructs: "ABC0052,0301040000000101231,1"
+hardwaretype: 1
+
+sessionid: 635
+depotid: 523
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-01-25 8:00:00"
+cycleindex: 100000
+instructs: "ABC0052,030104000000010111,24"
+instructs: "ABC0052,030104000000010112,24"
+instructs: "ABC0052,030104000000010113,24"
+instructs: "ABC0052,030104000000010114,24"
+instructs: "ABC0052,030104000000010115,24"
+instructs: "ABC0052,030104000000010116,24"
+instructs: "ABC0052,030104000000010117,24"
+instructs: "ABC0052,030104000000010118,24"
+instructs: "ABC0052,030104000000010119,24"
+instructs: "ABC0052,03010400000001011A,24"
+instructs: "ABC0052,03010400000001011B,24"
+instructs: "ABC0052,03010400000001011C,24"
+instructs: "ABC0052,03010400000001011D,24"
+instructs: "ABC0052,0301040000000101220,1"
+instructs: "ABC0052,0301040000000101231,1"
+hardwaretype: 1
+
+sessionid: 635
+depotid: 524
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-01-25 8:00:00"
+cycleindex: 100000
+instructs: "ABC0052,030105000000010111,24"
+instructs: "ABC0052,030105000000010112,24"
+instructs: "ABC0052,030105000000010113,24"
+instructs: "ABC0052,030105000000010114,24"
+instructs: "ABC0052,030105000000010115,24"
+instructs: "ABC0052,030105000000010116,24"
+instructs: "ABC0052,030105000000010117,24"
+instructs: "ABC0052,030105000000010118,24"
+instructs: "ABC0052,030105000000010119,24"
+instructs: "ABC0052,03010500000001011A,24"
+instructs: "ABC0052,03010500000001011B,24"
+instructs: "ABC0052,03010500000001011C,24"
+instructs: "ABC0052,03010500000001011D,24"
+instructs: "ABC0052,0301050000000101210,1"
+instructs: "ABC0052,0301040000000101231,1"
+hardwaretype: 1
+
+sessionid: 1172
+depotid: 580
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 201600
+cycleindex: 100000
+instructs: "ABC0018,030102000000010111,24"
+instructs: "ABC0018,030102000000010112,24"
+instructs: "ABC0018,030102000000010113,24"
+instructs: "ABC0018,030102000000010114,24"
+instructs: "ABC0018,030102000000010115,24"
+instructs: "ABC0018,030102000000010116,24"
+instructs: "ABC0018,030102000000010117,24"
+instructs: "ABC0018,0301040000000101211,1"
+instructs: "ABC0018,0301040000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016-Mar-03 13:21:20.955221"
+
+sessionid: 1172
+depotid: 581
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 201600
+cycleindex: 100000
+instructs: "ABC0018,030102000000010118,24"
+instructs: "ABC0018,030102000000010119,24"
+instructs: "ABC0018,03010200000001011a,24"
+instructs: "ABC0018,03010200000001011b,24"
+instructs: "ABC0018,03010200000001011c,24"
+instructs: "ABC0018,03010200000001011d,24"
+instructs: "ABC0018,03010200000001011e,24"
+instructs: "ABC0018,0301020000000101230,1"
+instructs: "ABC0018,0301040000000101211,1"
+hardwaretype: 1
+starttimerPeriod: "2016-Mar-03 13:21:20.955221"
+
+sessionid: 1172
+depotid: 582
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 201600
+cycleindex: 100000
+instructs: "ABC0018,0301030000000101220,1"
+instructs: "ABC0018,030103000000010111,24"
+instructs: "ABC0018,030103000000010112,24"
+instructs: "ABC0018,030103000000010113,24"
+instructs: "ABC0018,030103000000010114,24"
+instructs: "ABC0018,030103000000010115,24"
+instructs: "ABC0018,030103000000010116,24"
+instructs: "ABC0018,030103000000010117,24"
+instructs: "ABC0018,0301040000000101211,1"
+hardwaretype: 1
+starttimerPeriod: "2016-Mar-03 13:21:20.955221"
+
+sessionid: 1172
+depotid: 583
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 201600
+cycleindex: 100000
+instructs: "ABC0018,030103000000010118,24"
+instructs: "ABC0018,030103000000010119,24"
+instructs: "ABC0018,03010300000001011a,24"
+instructs: "ABC0018,03010300000001011b,24"
+instructs: "ABC0018,03010300000001011c,24"
+instructs: "ABC0018,03010300000001011d,24"
+instructs: "ABC0018,03010300000001011e,24"
+instructs: "ABC0018,0301030000000101230,1"
+instructs: "ABC0018,0301040000000101211,1"
+hardwaretype: 1
+starttimerPeriod: "2016-Mar-03 13:21:20.955221"
+
+sessionid: 2105
+depotid: 292
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0010,030103000000010122,1"
+instructs: "ABC0010,030107000000010111,60"
+instructs: "ABC0010,030107000000010112,60"
+instructs: "ABC0010,030107000000010113,60"
+instructs: "ABC0010,030107000000010114,20"
+instructs: "ABC0010,030107000000010121,1"
+hardwaretype: 1
+starttimerPeriod: "2016-Mar-03 13:21:20.955221"
+
+sessionid: 718
+depotid: 594
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 144
+cycleindex: 100000
+instructs: "ABC7777,030101000000010111,35"
+instructs: "ABC7777,030101000000010112,35"
+instructs: "ABC7777,030101000000010113,56"
+instructs: "ABC7777,030101000000010114,56"
+instructs: "ABC7777,030101000000010115,56"
+instructs: "ABC7777,030101000000010116,56"
+instructs: "ABC7777,030101000000010117,56"
+instructs: "ABC7777,030101000000010118,56"
+instructs: "ABC7777,030101000000010119,56"
+instructs: "ABC7777,0301010000000101210,1"
+instructs: "ABC7777,0301010000000101221,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/7 16:26:47"
+
+sessionid: 718
+depotid: 597
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 144
+cycleindex: 100000
+instructs: "ABC7777,030102000000010111,56"
+instructs: "ABC7777,030102000000010112,56"
+instructs: "ABC7777,030102000000010113,56"
+instructs: "ABC7777,030102000000010114,56"
+instructs: "ABC7777,030102000000010115,56"
+instructs: "ABC7777,030102000000010116,56"
+instructs: "ABC7777,030102000000010117,56"
+instructs: "ABC7777,030102000000010118,56"
+instructs: "ABC7777,030102000000010119,56"
+instructs: "ABC7777,0301020000000101210,1"
+instructs: "ABC7777,0301020000000101221,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/7 16:26:47"
+
+sessionid: 2971
+depotid: 180
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020211,10"
+instructs: "ABC0005,020212,10"
+instructs: "ABC0005,020213,10"
+instructs: "ABC0005,020214,10"
+instructs: "ABC0005,020215,10"
+
+sessionid: 2971
+depotid: 181
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020311,10"
+instructs: "ABC0005,020312,10"
+instructs: "ABC0005,020313,10"
+instructs: "ABC0005,020314,10"
+instructs: "ABC0005,020315,10"
+
+sessionid: 2971
+depotid: 182
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020411,10"
+instructs: "ABC0005,020412,10"
+instructs: "ABC0005,020413,10"
+instructs: "ABC0005,020414,10"
+instructs: "ABC0005,020415,10"
+
+sessionid: 2971
+depotid: 183
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020511,10"
+instructs: "ABC0005,020512,10"
+instructs: "ABC0005,020513,10"
+instructs: "ABC0005,020514,10"
+instructs: "ABC0005,020515,10"
+
+sessionid: 2971
+depotid: 184
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020611,10"
+instructs: "ABC0005,020612,10"
+instructs: "ABC0005,020613,10"
+instructs: "ABC0005,020614,10"
+instructs: "ABC0005,020615,10"
+
+sessionid: 2971
+depotid: 185
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020711,10"
+instructs: "ABC0005,020712,10"
+instructs: "ABC0005,020713,10"
+instructs: "ABC0005,020714,10"
+instructs: "ABC0005,020715,10"
+
+sessionid: 2971
+depotid: 186
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020811,10"
+instructs: "ABC0005,020812,10"
+instructs: "ABC0005,020813,10"
+instructs: "ABC0005,020814,10"
+instructs: "ABC0005,020815,10"
+
+sessionid: 3216
+depotid: 552
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,030102000000010117,28"
+instructs: "ABC0034,030102000000010118,28"
+instructs: "ABC0034,030102000000010119,28"
+instructs: "ABC0034,03010200000001011A,28"
+instructs: "ABC0034,03010200000001011B,28"
+instructs: "ABC0034,03010200000001011C,28"
+instructs: "ABC0034,0301020000000101220,1"
+instructs: "ABC0034,03010B0000000101211,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 553
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030103000000010111,20"
+instructs: "ABC0034,030103000000010112,20"
+instructs: "ABC0034,030103000000010113,20"
+instructs: "ABC0034,030103000000010114,20"
+instructs: "ABC0034,030103000000010115,20"
+instructs: "ABC0034,030103000000010116,20"
+instructs: "ABC0034,030103000000010117,20"
+instructs: "ABC0034,0301030000000101210,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 554
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030103000000010118,20"
+instructs: "ABC0034,030103000000010119,20"
+instructs: "ABC0034,03010300000001011A,20"
+instructs: "ABC0034,03010300000001011B,20"
+instructs: "ABC0034,03010300000001011C,20"
+instructs: "ABC0034,03010300000001011D,20"
+instructs: "ABC0034,03010300000001011E,20"
+instructs: "ABC0034,0301030000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 555
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030104000000010111,20"
+instructs: "ABC0034,030104000000010112,20"
+instructs: "ABC0034,030104000000010113,20"
+instructs: "ABC0034,030104000000010114,20"
+instructs: "ABC0034,030104000000010115,20"
+instructs: "ABC0034,030104000000010116,20"
+instructs: "ABC0034,030104000000010117,20"
+instructs: "ABC0034,0301040000000101210,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 556
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030104000000010118,20"
+instructs: "ABC0034,030104000000010119,20"
+instructs: "ABC0034,03010400000001011A,20"
+instructs: "ABC0034,03010400000001011B,20"
+instructs: "ABC0034,03010400000001011C,20"
+instructs: "ABC0034,03010400000001011D,20"
+instructs: "ABC0034,03010400000001011E,20"
+instructs: "ABC0034,0301040000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 557
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030105000000010111,24"
+instructs: "ABC0034,030105000000010112,24"
+instructs: "ABC0034,030105000000010113,24"
+instructs: "ABC0034,030105000000010114,24"
+instructs: "ABC0034,030105000000010115,24"
+instructs: "ABC0034,030105000000010116,24"
+instructs: "ABC0034,030105000000010117,24"
+instructs: "ABC0034,030105000000010118,24"
+instructs: "ABC0034,030105000000010119,24"
+instructs: "ABC0034,03010500000001011A,24"
+instructs: "ABC0034,0301050000000101220,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 558
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030106000000010111,24"
+instructs: "ABC0034,030106000000010112,24"
+instructs: "ABC0034,030106000000010113,24"
+instructs: "ABC0034,030106000000010114,24"
+instructs: "ABC0034,030106000000010115,24"
+instructs: "ABC0034,030106000000010116,24"
+instructs: "ABC0034,030106000000010117,24"
+instructs: "ABC0034,030106000000010118,24"
+instructs: "ABC0034,030106000000010119,24"
+instructs: "ABC0034,03010600000001011A,24"
+instructs: "ABC0034,0301060000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 559
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030107000000010111,24"
+instructs: "ABC0034,030107000000010112,24"
+instructs: "ABC0034,030107000000010113,24"
+instructs: "ABC0034,030107000000010114,24"
+instructs: "ABC0034,030107000000010115,24"
+instructs: "ABC0034,030107000000010116,24"
+instructs: "ABC0034,030107000000010117,24"
+instructs: "ABC0034,030107000000010118,24"
+instructs: "ABC0034,030107000000010119,24"
+instructs: "ABC0034,03010700000001011A,24"
+instructs: "ABC0034,0301070000000101220,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 560
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030108000000010111,24"
+instructs: "ABC0034,030108000000010112,24"
+instructs: "ABC0034,030108000000010113,24"
+instructs: "ABC0034,030108000000010114,24"
+instructs: "ABC0034,030108000000010115,24"
+instructs: "ABC0034,030108000000010116,24"
+instructs: "ABC0034,030108000000010117,24"
+instructs: "ABC0034,030108000000010118,24"
+instructs: "ABC0034,030108000000010119,24"
+instructs: "ABC0034,03010800000001011A,24"
+instructs: "ABC0034,0301080000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 561
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030109000000010111,24"
+instructs: "ABC0034,030109000000010112,24"
+instructs: "ABC0034,030109000000010113,24"
+instructs: "ABC0034,030109000000010114,24"
+instructs: "ABC0034,030109000000010115,24"
+instructs: "ABC0034,030109000000010116,24"
+instructs: "ABC0034,030109000000010117,24"
+instructs: "ABC0034,030109000000010118,24"
+instructs: "ABC0034,030109000000010119,24"
+instructs: "ABC0034,03010900000001011A,24"
+instructs: "ABC0034,0301090000000101220,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 562
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,03010A000000010111,24"
+instructs: "ABC0034,03010A000000010112,24"
+instructs: "ABC0034,03010A000000010113,24"
+instructs: "ABC0034,03010A000000010114,24"
+instructs: "ABC0034,03010A000000010115,24"
+instructs: "ABC0034,03010A000000010116,24"
+instructs: "ABC0034,03010A000000010117,24"
+instructs: "ABC0034,03010A000000010118,24"
+instructs: "ABC0034,03010A000000010119,24"
+instructs: "ABC0034,03010A00000001011A,24"
+instructs: "ABC0034,03010A0000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 563
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B000000010111,24"
+instructs: "ABC0034,03010B000000010112,24"
+instructs: "ABC0034,03010B000000010113,24"
+instructs: "ABC0034,03010B000000010114,24"
+instructs: "ABC0034,03010B000000010115,24"
+instructs: "ABC0034,03010B000000010116,24"
+instructs: "ABC0034,03010B000000010117,24"
+instructs: "ABC0034,03010B000000010118,24"
+instructs: "ABC0034,03010B000000010119,24"
+instructs: "ABC0034,03010B00000001011A,24"
+instructs: "ABC0034,03010B0000000101220,1"
+instructs: "ABC0034,03010B0000000101211,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 564
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,03010C000000010111,24"
+instructs: "ABC0034,03010C000000010112,24"
+instructs: "ABC0034,03010C000000010113,24"
+instructs: "ABC0034,03010C000000010114,24"
+instructs: "ABC0034,03010C000000010115,24"
+instructs: "ABC0034,03010C000000010116,24"
+instructs: "ABC0034,03010C000000010117,24"
+instructs: "ABC0034,03010C000000010118,24"
+instructs: "ABC0034,03010C000000010119,24"
+instructs: "ABC0034,03010C00000001011A,24"
+instructs: "ABC0034,03010C0000000101210,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 5
+depotid: 602
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC7777,030102000000010111,35"
+instructs: "ABC7777,030102000000010112,35"
+instructs: "ABC7777,0301020000000101210,1"
+instructs: "ABC7777,0301010000000101221,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/21 19:56:32"
+
+sessionid: 5
+depotid: 603
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC7777,030101000000010111,35"
+instructs: "ABC7777,030101000000010112,35"
+instructs: "ABC7777,030101000000010113,35"
+instructs: "ABC7777,030101000000010114,35"
+instructs: "ABC7777,030101000000010115,35"
+instructs: "ABC7777,030101000000010116,35"
+instructs: "ABC7777,030101000000010117,35"
+instructs: "ABC7777,030101000000010118,35"
+instructs: "ABC7777,030101000000010119,35"
+instructs: "ABC7777,0301010000000101210,1"
+instructs: "ABC7777,0301010000000101221,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/21 19:56:32"
+
+sessionid: 381
+depotid: 571
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-24 7:40:00"
+cycleindex: 100000
+instructs: "ABC0046,030103000000010111,20"
+instructs: "ABC0046,030103000000010112,20"
+instructs: "ABC0046,030103000000010113,20"
+instructs: "ABC0046,030103000000010114,20"
+instructs: "ABC0046,030103000000010115,20"
+instructs: "ABC0046,030103000000010116,20"
+instructs: "ABC0046,030103000000010117,20"
+instructs: "ABC0046,030103000000010118,20"
+instructs: "ABC0046,0301030000000101210,1"
+instructs: "ABC0046,0301030000000101221,1"
+hardwaretype: 1
+
+sessionid: 381
+depotid: 572
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-24 7:40:00"
+cycleindex: 100000
+instructs: "ABC0046,030102000000010111,20"
+instructs: "ABC0046,030102000000010112,20"
+instructs: "ABC0046,030102000000010113,20"
+instructs: "ABC0046,030102000000010114,20"
+instructs: "ABC0046,030102000000010115,20"
+instructs: "ABC0046,030102000000010116,20"
+instructs: "ABC0046,030102000000010117,20"
+instructs: "ABC0046,030102000000010118,20"
+instructs: "ABC0046,0301020000000101210,1"
+instructs: "ABC0046,0301030000000101221,1"
+hardwaretype: 1
+
+sessionid: 381
+depotid: 573
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-24 7:40:00"
+cycleindex: 100000
+instructs: "ABC0046,030102000000010119,20"
+instructs: "ABC0046,03010200000001011A,20"
+instructs: "ABC0046,03010200000001011B,20"
+instructs: "ABC0046,03010200000001011C,20"
+instructs: "ABC0046,03010200000001011D,20"
+instructs: "ABC0046,03010200000001011E,20"
+instructs: "ABC0046,03010200000001011F,20"
+instructs: "ABC0046,030102000000010120,20"
+instructs: "ABC0046,0301020000000101210,1"
+instructs: "ABC0046,0301030000000101221,1"
+hardwaretype: 1
+
+sessionid: 106
+depotid: 570
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-04-05 7:40:00"
+cycleindex: 1
+instructs: "ABC0045,030102000000010111,28"
+instructs: "ABC0045,030102000000010112,28"
+instructs: "ABC0045,0301020000000101211,1"
+instructs: "ABC0045,0301020000000101220,1"
+instructs: "ABC0045,030102000000010113,28"
+instructs: "ABC0045,030102000000010114,28"
+instructs: "ABC0045,030102000000010115,28"
+instructs: "ABC0045,030102000000010116,28"
+instructs: "ABC0045,030102000000010117,28"
+instructs: "ABC0045,030102000000010118,28"
+instructs: "ABC0045,030102000000010119,28"
+instructs: "ABC0045,03010200000001011A,28"
+instructs: "ABC0045,03010200000001011B,28"
+instructs: "ABC0045,03010200000001011C,28"
+instructs: "ABC0045,03010200000001011D,28"
+hardwaretype: 1
+
+sessionid: 134218067
+depotid: 687
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC0066,030102000000010112,30"
+instructs: "ABC0066,030102000000010113,25"
+instructs: "ABC0066,030102000000010114,30"
+instructs: "ABC0066,030102000000010115,20"
+instructs: "ABC0066,030102000000010116,15"
+hardwaretype: 1
+starttimerPeriod: "2016/6/29 20:53:45"
+
+sessionid: 134218067
+depotid: 688
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC0066,030102000000010111,28"
+hardwaretype: 1
+starttimerPeriod: "2016/6/29 20:53:45"
+
+sessionid: 134218067
+depotid: 689
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC0066,030103000000010115,15"
+instructs: "ABC0066,030103000000010116,30"
+instructs: "ABC0066,030103000000010117,28"
+hardwaretype: 1
+starttimerPeriod: "2016/6/29 20:53:45"
+
+sessionid: 134218067
+depotid: 690
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC0066,030103000000010111,30"
+instructs: "ABC0066,030103000000010112,25"
+instructs: "ABC0066,030103000000010113,18"
+instructs: "ABC0066,030103000000010114,28"
+hardwaretype: 1
+starttimerPeriod: "2016/6/29 20:53:45"
+
+sessionid: 134218067
+depotid: 691
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC0066,030104000000010111,25"
+instructs: "ABC0066,030104000000010112,30"
+instructs: "ABC0066,030104000000010113,21"
+instructs: "ABC0066,030104000000010114,15"
+instructs: "ABC0066,030104000000010115,18"
+instructs: "ABC0066,030105000000010111,23"
+instructs: "ABC0066,030105000000010112,28"
+instructs: "ABC0066,030105000000010113,15"
+instructs: "ABC0066,030105000000010114,21"
+instructs: "ABC0066,030104000000010116,30"
+instructs: "ABC0066,030104000000010117,30"
+instructs: "ABC0066,030105000000010115,20"
+instructs: "ABC0066,030105000000010116,20"
+hardwaretype: 1
+starttimerPeriod: "2016/6/29 20:53:45"
+
+sessionid: 134217891
+depotid: 652
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010112,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 660
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010113,25"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 661
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010114,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 662
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010115,20"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 663
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010116,15"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 664
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010111,28"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 665
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010115,28"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 666
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010116,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 667
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010117,15"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 668
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010111,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 669
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010112,25"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 670
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010113,18"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 671
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010114,28"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 672
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010111,25"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 673
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010112,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 674
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010113,21"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 675
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010114,15"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 676
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010115,18"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 677
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010111,23"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 678
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010112,28"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 679
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010113,15"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 680
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010114,21"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 681
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010116,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 682
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010117,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 683
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010115,20"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 684
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010116,20"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 43
+depotid: 576
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 32400
+cycleindex: 100000
+instructs: "ABC5000,030110000000010111,5"
+instructs: "ABC5000,030110000000010112,5"
+instructs: "ABC5000,030110000000010113,5"
+instructs: "ABC5000,030110000000010114,5"
+starttimerPeriod: "2016/8/17 20:37:11"
+
+sessionid: 8
+depotid: 697
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC5000,0301010000000101C1,5"
+instructs: "ABC5000,0301010000000101C2,5"
+starttimerPeriod: "2016/9/30 12:07:30"
+
+sessionid: 28
+depotid: 1
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 120
+cycleindex: 10000
+instructs: "IDT0001,030103000000010111,4"
+instructs: "IDT0001,030103000000010112,15"
+hardwaretype: 0
+starttimerPeriod: "2017/3/11 22:30:37"
+
+sessionid: 1
+depotid: 371
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 180
+cycleindex: 100000
+instructs: "ABC7778,030110000000010191,1"
+instructs: "ABC7778,0301100000000101A2,1"
+instructs: "ABC7778,0301100000000101B3,1"
+starttimerPeriod: "2017/8/29 16:34:35"
+timingtestingtype: Gas
+
+sessionid: 1
+depotid: 371
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 180
+cycleindex: 100000
+instructs: "ABC7778,0301ff000000010114,4"
+instructs: "ABC7778,030110000000010111,15"
+instructs: "ABC7778,030110000000010112,15"
+instructs: "ABC7778,030110000000010113,15"
+instructs: "ABC7778,030110000000010114,15"
+instructs: "ABC7778,0301100000000101210,1"
+instructs: "ABC7778,0301100000000101221,1"
+starttimerPeriod: "2017/8/29 16:42:49"
+timingtestingtype: TempHumi
+
+sessionid: 635
+depotid: 489
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-01-25 8:00:00"
+cycleindex: 100000
+instructs: "ABC0052,030102000000010111,24"
+instructs: "ABC0052,030102000000010112,24"
+instructs: "ABC0052,030102000000010113,24"
+instructs: "ABC0052,030102000000010114,24"
+instructs: "ABC0052,030102000000010115,24"
+instructs: "ABC0052,030102000000010116,24"
+instructs: "ABC0052,030102000000010117,24"
+instructs: "ABC0052,030102000000010118,24"
+instructs: "ABC0052,030102000000010119,24"
+instructs: "ABC0052,03010200000001011A,24"
+instructs: "ABC0052,03010200000001011B,24"
+instructs: "ABC0052,03010200000001011C,24"
+instructs: "ABC0052,03010200000001011D,24"
+instructs: "ABC0052,0301020000000101210,1"
+instructs: "ABC0052,0301040000000101231,1"
+hardwaretype: 1
+
+sessionid: 635
+depotid: 522
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-01-25 8:00:00"
+cycleindex: 100000
+instructs: "ABC0052,030103000000010111,24"
+instructs: "ABC0052,030103000000010112,24"
+instructs: "ABC0052,030103000000010113,24"
+instructs: "ABC0052,030103000000010114,24"
+instructs: "ABC0052,030103000000010115,24"
+instructs: "ABC0052,030103000000010116,24"
+instructs: "ABC0052,030103000000010117,24"
+instructs: "ABC0052,030103000000010118,24"
+instructs: "ABC0052,030103000000010119,24"
+instructs: "ABC0052,03010300000001011A,24"
+instructs: "ABC0052,03010300000001011B,24"
+instructs: "ABC0052,03010300000001011C,24"
+instructs: "ABC0052,03010300000001011D,24"
+instructs: "ABC0052,0301030000000101220,1"
+instructs: "ABC0052,0301040000000101231,1"
+hardwaretype: 1
+
+sessionid: 635
+depotid: 523
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-01-25 8:00:00"
+cycleindex: 100000
+instructs: "ABC0052,030104000000010111,24"
+instructs: "ABC0052,030104000000010112,24"
+instructs: "ABC0052,030104000000010113,24"
+instructs: "ABC0052,030104000000010114,24"
+instructs: "ABC0052,030104000000010115,24"
+instructs: "ABC0052,030104000000010116,24"
+instructs: "ABC0052,030104000000010117,24"
+instructs: "ABC0052,030104000000010118,24"
+instructs: "ABC0052,030104000000010119,24"
+instructs: "ABC0052,03010400000001011A,24"
+instructs: "ABC0052,03010400000001011B,24"
+instructs: "ABC0052,03010400000001011C,24"
+instructs: "ABC0052,03010400000001011D,24"
+instructs: "ABC0052,0301040000000101220,1"
+instructs: "ABC0052,0301040000000101231,1"
+hardwaretype: 1
+
+sessionid: 635
+depotid: 524
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-01-25 8:00:00"
+cycleindex: 100000
+instructs: "ABC0052,030105000000010111,24"
+instructs: "ABC0052,030105000000010112,24"
+instructs: "ABC0052,030105000000010113,24"
+instructs: "ABC0052,030105000000010114,24"
+instructs: "ABC0052,030105000000010115,24"
+instructs: "ABC0052,030105000000010116,24"
+instructs: "ABC0052,030105000000010117,24"
+instructs: "ABC0052,030105000000010118,24"
+instructs: "ABC0052,030105000000010119,24"
+instructs: "ABC0052,03010500000001011A,24"
+instructs: "ABC0052,03010500000001011B,24"
+instructs: "ABC0052,03010500000001011C,24"
+instructs: "ABC0052,03010500000001011D,24"
+instructs: "ABC0052,0301050000000101210,1"
+instructs: "ABC0052,0301040000000101231,1"
+hardwaretype: 1
+
+sessionid: 1172
+depotid: 580
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 201600
+cycleindex: 100000
+instructs: "ABC0018,030102000000010111,24"
+instructs: "ABC0018,030102000000010112,24"
+instructs: "ABC0018,030102000000010113,24"
+instructs: "ABC0018,030102000000010114,24"
+instructs: "ABC0018,030102000000010115,24"
+instructs: "ABC0018,030102000000010116,24"
+instructs: "ABC0018,030102000000010117,24"
+instructs: "ABC0018,0301040000000101211,1"
+instructs: "ABC0018,0301040000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016-Mar-03 13:21:20.955221"
+
+sessionid: 1172
+depotid: 581
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 201600
+cycleindex: 100000
+instructs: "ABC0018,030102000000010118,24"
+instructs: "ABC0018,030102000000010119,24"
+instructs: "ABC0018,03010200000001011a,24"
+instructs: "ABC0018,03010200000001011b,24"
+instructs: "ABC0018,03010200000001011c,24"
+instructs: "ABC0018,03010200000001011d,24"
+instructs: "ABC0018,03010200000001011e,24"
+instructs: "ABC0018,0301020000000101230,1"
+instructs: "ABC0018,0301040000000101211,1"
+hardwaretype: 1
+starttimerPeriod: "2016-Mar-03 13:21:20.955221"
+
+sessionid: 1172
+depotid: 582
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 201600
+cycleindex: 100000
+instructs: "ABC0018,0301030000000101220,1"
+instructs: "ABC0018,030103000000010111,24"
+instructs: "ABC0018,030103000000010112,24"
+instructs: "ABC0018,030103000000010113,24"
+instructs: "ABC0018,030103000000010114,24"
+instructs: "ABC0018,030103000000010115,24"
+instructs: "ABC0018,030103000000010116,24"
+instructs: "ABC0018,030103000000010117,24"
+instructs: "ABC0018,0301040000000101211,1"
+hardwaretype: 1
+starttimerPeriod: "2016-Mar-03 13:21:20.955221"
+
+sessionid: 1172
+depotid: 583
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 201600
+cycleindex: 100000
+instructs: "ABC0018,030103000000010118,24"
+instructs: "ABC0018,030103000000010119,24"
+instructs: "ABC0018,03010300000001011a,24"
+instructs: "ABC0018,03010300000001011b,24"
+instructs: "ABC0018,03010300000001011c,24"
+instructs: "ABC0018,03010300000001011d,24"
+instructs: "ABC0018,03010300000001011e,24"
+instructs: "ABC0018,0301030000000101230,1"
+instructs: "ABC0018,0301040000000101211,1"
+hardwaretype: 1
+starttimerPeriod: "2016-Mar-03 13:21:20.955221"
+
+sessionid: 2105
+depotid: 292
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0010,030103000000010122,1"
+instructs: "ABC0010,030107000000010111,60"
+instructs: "ABC0010,030107000000010112,60"
+instructs: "ABC0010,030107000000010113,60"
+instructs: "ABC0010,030107000000010114,20"
+instructs: "ABC0010,030107000000010121,1"
+hardwaretype: 1
+starttimerPeriod: "2016-Mar-03 13:21:20.955221"
+
+sessionid: 718
+depotid: 594
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 144
+cycleindex: 100000
+instructs: "ABC7777,030101000000010111,35"
+instructs: "ABC7777,030101000000010112,35"
+instructs: "ABC7777,030101000000010113,56"
+instructs: "ABC7777,030101000000010114,56"
+instructs: "ABC7777,030101000000010115,56"
+instructs: "ABC7777,030101000000010116,56"
+instructs: "ABC7777,030101000000010117,56"
+instructs: "ABC7777,030101000000010118,56"
+instructs: "ABC7777,030101000000010119,56"
+instructs: "ABC7777,0301010000000101210,1"
+instructs: "ABC7777,0301010000000101221,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/7 16:26:47"
+
+sessionid: 718
+depotid: 597
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 144
+cycleindex: 100000
+instructs: "ABC7777,030102000000010111,56"
+instructs: "ABC7777,030102000000010112,56"
+instructs: "ABC7777,030102000000010113,56"
+instructs: "ABC7777,030102000000010114,56"
+instructs: "ABC7777,030102000000010115,56"
+instructs: "ABC7777,030102000000010116,56"
+instructs: "ABC7777,030102000000010117,56"
+instructs: "ABC7777,030102000000010118,56"
+instructs: "ABC7777,030102000000010119,56"
+instructs: "ABC7777,0301020000000101210,1"
+instructs: "ABC7777,0301020000000101221,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/7 16:26:47"
+
+sessionid: 2971
+depotid: 180
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020211,10"
+instructs: "ABC0005,020212,10"
+instructs: "ABC0005,020213,10"
+instructs: "ABC0005,020214,10"
+instructs: "ABC0005,020215,10"
+
+sessionid: 2971
+depotid: 181
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020311,10"
+instructs: "ABC0005,020312,10"
+instructs: "ABC0005,020313,10"
+instructs: "ABC0005,020314,10"
+instructs: "ABC0005,020315,10"
+
+sessionid: 2971
+depotid: 182
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020411,10"
+instructs: "ABC0005,020412,10"
+instructs: "ABC0005,020413,10"
+instructs: "ABC0005,020414,10"
+instructs: "ABC0005,020415,10"
+
+sessionid: 2971
+depotid: 183
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020511,10"
+instructs: "ABC0005,020512,10"
+instructs: "ABC0005,020513,10"
+instructs: "ABC0005,020514,10"
+instructs: "ABC0005,020515,10"
+
+sessionid: 2971
+depotid: 184
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020611,10"
+instructs: "ABC0005,020612,10"
+instructs: "ABC0005,020613,10"
+instructs: "ABC0005,020614,10"
+instructs: "ABC0005,020615,10"
+
+sessionid: 2971
+depotid: 185
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020711,10"
+instructs: "ABC0005,020712,10"
+instructs: "ABC0005,020713,10"
+instructs: "ABC0005,020714,10"
+instructs: "ABC0005,020715,10"
+
+sessionid: 2971
+depotid: 186
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020811,10"
+instructs: "ABC0005,020812,10"
+instructs: "ABC0005,020813,10"
+instructs: "ABC0005,020814,10"
+instructs: "ABC0005,020815,10"
+
+sessionid: 3216
+depotid: 552
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,030102000000010117,28"
+instructs: "ABC0034,030102000000010118,28"
+instructs: "ABC0034,030102000000010119,28"
+instructs: "ABC0034,03010200000001011A,28"
+instructs: "ABC0034,03010200000001011B,28"
+instructs: "ABC0034,03010200000001011C,28"
+instructs: "ABC0034,0301020000000101220,1"
+instructs: "ABC0034,03010B0000000101211,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 553
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030103000000010111,20"
+instructs: "ABC0034,030103000000010112,20"
+instructs: "ABC0034,030103000000010113,20"
+instructs: "ABC0034,030103000000010114,20"
+instructs: "ABC0034,030103000000010115,20"
+instructs: "ABC0034,030103000000010116,20"
+instructs: "ABC0034,030103000000010117,20"
+instructs: "ABC0034,0301030000000101210,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 554
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030103000000010118,20"
+instructs: "ABC0034,030103000000010119,20"
+instructs: "ABC0034,03010300000001011A,20"
+instructs: "ABC0034,03010300000001011B,20"
+instructs: "ABC0034,03010300000001011C,20"
+instructs: "ABC0034,03010300000001011D,20"
+instructs: "ABC0034,03010300000001011E,20"
+instructs: "ABC0034,0301030000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 555
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030104000000010111,20"
+instructs: "ABC0034,030104000000010112,20"
+instructs: "ABC0034,030104000000010113,20"
+instructs: "ABC0034,030104000000010114,20"
+instructs: "ABC0034,030104000000010115,20"
+instructs: "ABC0034,030104000000010116,20"
+instructs: "ABC0034,030104000000010117,20"
+instructs: "ABC0034,0301040000000101210,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 556
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030104000000010118,20"
+instructs: "ABC0034,030104000000010119,20"
+instructs: "ABC0034,03010400000001011A,20"
+instructs: "ABC0034,03010400000001011B,20"
+instructs: "ABC0034,03010400000001011C,20"
+instructs: "ABC0034,03010400000001011D,20"
+instructs: "ABC0034,03010400000001011E,20"
+instructs: "ABC0034,0301040000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 557
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030105000000010111,24"
+instructs: "ABC0034,030105000000010112,24"
+instructs: "ABC0034,030105000000010113,24"
+instructs: "ABC0034,030105000000010114,24"
+instructs: "ABC0034,030105000000010115,24"
+instructs: "ABC0034,030105000000010116,24"
+instructs: "ABC0034,030105000000010117,24"
+instructs: "ABC0034,030105000000010118,24"
+instructs: "ABC0034,030105000000010119,24"
+instructs: "ABC0034,03010500000001011A,24"
+instructs: "ABC0034,0301050000000101220,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 558
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030106000000010111,24"
+instructs: "ABC0034,030106000000010112,24"
+instructs: "ABC0034,030106000000010113,24"
+instructs: "ABC0034,030106000000010114,24"
+instructs: "ABC0034,030106000000010115,24"
+instructs: "ABC0034,030106000000010116,24"
+instructs: "ABC0034,030106000000010117,24"
+instructs: "ABC0034,030106000000010118,24"
+instructs: "ABC0034,030106000000010119,24"
+instructs: "ABC0034,03010600000001011A,24"
+instructs: "ABC0034,0301060000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 559
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030107000000010111,24"
+instructs: "ABC0034,030107000000010112,24"
+instructs: "ABC0034,030107000000010113,24"
+instructs: "ABC0034,030107000000010114,24"
+instructs: "ABC0034,030107000000010115,24"
+instructs: "ABC0034,030107000000010116,24"
+instructs: "ABC0034,030107000000010117,24"
+instructs: "ABC0034,030107000000010118,24"
+instructs: "ABC0034,030107000000010119,24"
+instructs: "ABC0034,03010700000001011A,24"
+instructs: "ABC0034,0301070000000101220,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 560
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030108000000010111,24"
+instructs: "ABC0034,030108000000010112,24"
+instructs: "ABC0034,030108000000010113,24"
+instructs: "ABC0034,030108000000010114,24"
+instructs: "ABC0034,030108000000010115,24"
+instructs: "ABC0034,030108000000010116,24"
+instructs: "ABC0034,030108000000010117,24"
+instructs: "ABC0034,030108000000010118,24"
+instructs: "ABC0034,030108000000010119,24"
+instructs: "ABC0034,03010800000001011A,24"
+instructs: "ABC0034,0301080000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 561
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030109000000010111,24"
+instructs: "ABC0034,030109000000010112,24"
+instructs: "ABC0034,030109000000010113,24"
+instructs: "ABC0034,030109000000010114,24"
+instructs: "ABC0034,030109000000010115,24"
+instructs: "ABC0034,030109000000010116,24"
+instructs: "ABC0034,030109000000010117,24"
+instructs: "ABC0034,030109000000010118,24"
+instructs: "ABC0034,030109000000010119,24"
+instructs: "ABC0034,03010900000001011A,24"
+instructs: "ABC0034,0301090000000101220,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 562
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,03010A000000010111,24"
+instructs: "ABC0034,03010A000000010112,24"
+instructs: "ABC0034,03010A000000010113,24"
+instructs: "ABC0034,03010A000000010114,24"
+instructs: "ABC0034,03010A000000010115,24"
+instructs: "ABC0034,03010A000000010116,24"
+instructs: "ABC0034,03010A000000010117,24"
+instructs: "ABC0034,03010A000000010118,24"
+instructs: "ABC0034,03010A000000010119,24"
+instructs: "ABC0034,03010A00000001011A,24"
+instructs: "ABC0034,03010A0000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 563
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B000000010111,24"
+instructs: "ABC0034,03010B000000010112,24"
+instructs: "ABC0034,03010B000000010113,24"
+instructs: "ABC0034,03010B000000010114,24"
+instructs: "ABC0034,03010B000000010115,24"
+instructs: "ABC0034,03010B000000010116,24"
+instructs: "ABC0034,03010B000000010117,24"
+instructs: "ABC0034,03010B000000010118,24"
+instructs: "ABC0034,03010B000000010119,24"
+instructs: "ABC0034,03010B00000001011A,24"
+instructs: "ABC0034,03010B0000000101220,1"
+instructs: "ABC0034,03010B0000000101211,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 564
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,03010C000000010111,24"
+instructs: "ABC0034,03010C000000010112,24"
+instructs: "ABC0034,03010C000000010113,24"
+instructs: "ABC0034,03010C000000010114,24"
+instructs: "ABC0034,03010C000000010115,24"
+instructs: "ABC0034,03010C000000010116,24"
+instructs: "ABC0034,03010C000000010117,24"
+instructs: "ABC0034,03010C000000010118,24"
+instructs: "ABC0034,03010C000000010119,24"
+instructs: "ABC0034,03010C00000001011A,24"
+instructs: "ABC0034,03010C0000000101210,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 5
+depotid: 602
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC7777,030102000000010111,35"
+instructs: "ABC7777,030102000000010112,35"
+instructs: "ABC7777,0301020000000101210,1"
+instructs: "ABC7777,0301010000000101221,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/21 19:56:32"
+
+sessionid: 5
+depotid: 603
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC7777,030101000000010111,35"
+instructs: "ABC7777,030101000000010112,35"
+instructs: "ABC7777,030101000000010113,35"
+instructs: "ABC7777,030101000000010114,35"
+instructs: "ABC7777,030101000000010115,35"
+instructs: "ABC7777,030101000000010116,35"
+instructs: "ABC7777,030101000000010117,35"
+instructs: "ABC7777,030101000000010118,35"
+instructs: "ABC7777,030101000000010119,35"
+instructs: "ABC7777,0301010000000101210,1"
+instructs: "ABC7777,0301010000000101221,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/21 19:56:32"
+
+sessionid: 381
+depotid: 571
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-24 7:40:00"
+cycleindex: 100000
+instructs: "ABC0046,030103000000010111,20"
+instructs: "ABC0046,030103000000010112,20"
+instructs: "ABC0046,030103000000010113,20"
+instructs: "ABC0046,030103000000010114,20"
+instructs: "ABC0046,030103000000010115,20"
+instructs: "ABC0046,030103000000010116,20"
+instructs: "ABC0046,030103000000010117,20"
+instructs: "ABC0046,030103000000010118,20"
+instructs: "ABC0046,0301030000000101210,1"
+instructs: "ABC0046,0301030000000101221,1"
+hardwaretype: 1
+
+sessionid: 381
+depotid: 572
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-24 7:40:00"
+cycleindex: 100000
+instructs: "ABC0046,030102000000010111,20"
+instructs: "ABC0046,030102000000010112,20"
+instructs: "ABC0046,030102000000010113,20"
+instructs: "ABC0046,030102000000010114,20"
+instructs: "ABC0046,030102000000010115,20"
+instructs: "ABC0046,030102000000010116,20"
+instructs: "ABC0046,030102000000010117,20"
+instructs: "ABC0046,030102000000010118,20"
+instructs: "ABC0046,0301020000000101210,1"
+instructs: "ABC0046,0301030000000101221,1"
+hardwaretype: 1
+
+sessionid: 381
+depotid: 573
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-24 7:40:00"
+cycleindex: 100000
+instructs: "ABC0046,030102000000010119,20"
+instructs: "ABC0046,03010200000001011A,20"
+instructs: "ABC0046,03010200000001011B,20"
+instructs: "ABC0046,03010200000001011C,20"
+instructs: "ABC0046,03010200000001011D,20"
+instructs: "ABC0046,03010200000001011E,20"
+instructs: "ABC0046,03010200000001011F,20"
+instructs: "ABC0046,030102000000010120,20"
+instructs: "ABC0046,0301020000000101210,1"
+instructs: "ABC0046,0301030000000101221,1"
+hardwaretype: 1
+
+sessionid: 106
+depotid: 570
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-04-05 7:40:00"
+cycleindex: 1
+instructs: "ABC0045,030102000000010111,28"
+instructs: "ABC0045,030102000000010112,28"
+instructs: "ABC0045,0301020000000101211,1"
+instructs: "ABC0045,0301020000000101220,1"
+instructs: "ABC0045,030102000000010113,28"
+instructs: "ABC0045,030102000000010114,28"
+instructs: "ABC0045,030102000000010115,28"
+instructs: "ABC0045,030102000000010116,28"
+instructs: "ABC0045,030102000000010117,28"
+instructs: "ABC0045,030102000000010118,28"
+instructs: "ABC0045,030102000000010119,28"
+instructs: "ABC0045,03010200000001011A,28"
+instructs: "ABC0045,03010200000001011B,28"
+instructs: "ABC0045,03010200000001011C,28"
+instructs: "ABC0045,03010200000001011D,28"
+hardwaretype: 1
+
+sessionid: 134218067
+depotid: 687
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC0066,030102000000010112,30"
+instructs: "ABC0066,030102000000010113,25"
+instructs: "ABC0066,030102000000010114,30"
+instructs: "ABC0066,030102000000010115,20"
+instructs: "ABC0066,030102000000010116,15"
+hardwaretype: 1
+starttimerPeriod: "2016/6/29 20:53:45"
+
+sessionid: 134218067
+depotid: 688
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC0066,030102000000010111,28"
+hardwaretype: 1
+starttimerPeriod: "2016/6/29 20:53:45"
+
+sessionid: 134218067
+depotid: 689
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC0066,030103000000010115,15"
+instructs: "ABC0066,030103000000010116,30"
+instructs: "ABC0066,030103000000010117,28"
+hardwaretype: 1
+starttimerPeriod: "2016/6/29 20:53:45"
+
+sessionid: 134218067
+depotid: 690
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC0066,030103000000010111,30"
+instructs: "ABC0066,030103000000010112,25"
+instructs: "ABC0066,030103000000010113,18"
+instructs: "ABC0066,030103000000010114,28"
+hardwaretype: 1
+starttimerPeriod: "2016/6/29 20:53:45"
+
+sessionid: 134218067
+depotid: 691
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC0066,030104000000010111,25"
+instructs: "ABC0066,030104000000010112,30"
+instructs: "ABC0066,030104000000010113,21"
+instructs: "ABC0066,030104000000010114,15"
+instructs: "ABC0066,030104000000010115,18"
+instructs: "ABC0066,030105000000010111,23"
+instructs: "ABC0066,030105000000010112,28"
+instructs: "ABC0066,030105000000010113,15"
+instructs: "ABC0066,030105000000010114,21"
+instructs: "ABC0066,030104000000010116,30"
+instructs: "ABC0066,030104000000010117,30"
+instructs: "ABC0066,030105000000010115,20"
+instructs: "ABC0066,030105000000010116,20"
+hardwaretype: 1
+starttimerPeriod: "2016/6/29 20:53:45"
+
+sessionid: 134217891
+depotid: 652
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010112,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 660
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010113,25"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 661
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010114,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 662
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010115,20"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 663
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010116,15"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 664
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010111,28"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 665
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010115,28"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 666
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010116,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 667
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010117,15"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 668
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010111,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 669
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010112,25"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 670
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010113,18"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 671
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010114,28"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 672
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010111,25"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 673
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010112,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 674
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010113,21"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 675
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010114,15"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 676
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010115,18"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 677
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010111,23"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 678
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010112,28"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 679
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010113,15"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 680
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010114,21"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 681
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010116,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 682
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010117,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 683
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010115,20"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 684
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010116,20"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 43
+depotid: 576
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 32400
+cycleindex: 100000
+instructs: "ABC5000,030110000000010111,5"
+instructs: "ABC5000,030110000000010112,5"
+instructs: "ABC5000,030110000000010113,5"
+instructs: "ABC5000,030110000000010114,5"
+starttimerPeriod: "2016/8/17 20:37:11"
+
+sessionid: 8
+depotid: 697
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC5000,0301010000000101C1,5"
+instructs: "ABC5000,0301010000000101C2,5"
+starttimerPeriod: "2016/9/30 12:07:30"
+
+sessionid: 28
+depotid: 1
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 120
+cycleindex: 10000
+instructs: "IDT0001,030103000000010111,4"
+instructs: "IDT0001,030103000000010112,15"
+hardwaretype: 0
+starttimerPeriod: "2017/3/11 22:30:37"
+
+sessionid: 1
+depotid: 371
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 180
+cycleindex: 100000
+instructs: "ABC7778,030110000000010191,1"
+instructs: "ABC7778,0301100000000101A2,1"
+instructs: "ABC7778,0301100000000101B3,1"
+starttimerPeriod: "2017/8/29 16:34:35"
+timingtestingtype: Gas
+
+sessionid: 1
+depotid: 371
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 180
+cycleindex: 100000
+instructs: "ABC7778,0301ff000000010114,4"
+instructs: "ABC7778,030110000000010111,15"
+instructs: "ABC7778,030110000000010112,15"
+instructs: "ABC7778,030110000000010113,15"
+instructs: "ABC7778,030110000000010114,15"
+instructs: "ABC7778,0301100000000101210,1"
+instructs: "ABC7778,0301100000000101221,1"
+starttimerPeriod: "2017/8/29 16:42:49"
+timingtestingtype: TempHumi
+
+sessionid: 635
+depotid: 489
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-01-25 8:00:00"
+cycleindex: 100000
+instructs: "ABC0052,030102000000010111,24"
+instructs: "ABC0052,030102000000010112,24"
+instructs: "ABC0052,030102000000010113,24"
+instructs: "ABC0052,030102000000010114,24"
+instructs: "ABC0052,030102000000010115,24"
+instructs: "ABC0052,030102000000010116,24"
+instructs: "ABC0052,030102000000010117,24"
+instructs: "ABC0052,030102000000010118,24"
+instructs: "ABC0052,030102000000010119,24"
+instructs: "ABC0052,03010200000001011A,24"
+instructs: "ABC0052,03010200000001011B,24"
+instructs: "ABC0052,03010200000001011C,24"
+instructs: "ABC0052,03010200000001011D,24"
+instructs: "ABC0052,0301020000000101210,1"
+instructs: "ABC0052,0301040000000101231,1"
+hardwaretype: 1
+
+sessionid: 635
+depotid: 522
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-01-25 8:00:00"
+cycleindex: 100000
+instructs: "ABC0052,030103000000010111,24"
+instructs: "ABC0052,030103000000010112,24"
+instructs: "ABC0052,030103000000010113,24"
+instructs: "ABC0052,030103000000010114,24"
+instructs: "ABC0052,030103000000010115,24"
+instructs: "ABC0052,030103000000010116,24"
+instructs: "ABC0052,030103000000010117,24"
+instructs: "ABC0052,030103000000010118,24"
+instructs: "ABC0052,030103000000010119,24"
+instructs: "ABC0052,03010300000001011A,24"
+instructs: "ABC0052,03010300000001011B,24"
+instructs: "ABC0052,03010300000001011C,24"
+instructs: "ABC0052,03010300000001011D,24"
+instructs: "ABC0052,0301030000000101220,1"
+instructs: "ABC0052,0301040000000101231,1"
+hardwaretype: 1
+
+sessionid: 635
+depotid: 523
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-01-25 8:00:00"
+cycleindex: 100000
+instructs: "ABC0052,030104000000010111,24"
+instructs: "ABC0052,030104000000010112,24"
+instructs: "ABC0052,030104000000010113,24"
+instructs: "ABC0052,030104000000010114,24"
+instructs: "ABC0052,030104000000010115,24"
+instructs: "ABC0052,030104000000010116,24"
+instructs: "ABC0052,030104000000010117,24"
+instructs: "ABC0052,030104000000010118,24"
+instructs: "ABC0052,030104000000010119,24"
+instructs: "ABC0052,03010400000001011A,24"
+instructs: "ABC0052,03010400000001011B,24"
+instructs: "ABC0052,03010400000001011C,24"
+instructs: "ABC0052,03010400000001011D,24"
+instructs: "ABC0052,0301040000000101220,1"
+instructs: "ABC0052,0301040000000101231,1"
+hardwaretype: 1
+
+sessionid: 635
+depotid: 524
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-01-25 8:00:00"
+cycleindex: 100000
+instructs: "ABC0052,030105000000010111,24"
+instructs: "ABC0052,030105000000010112,24"
+instructs: "ABC0052,030105000000010113,24"
+instructs: "ABC0052,030105000000010114,24"
+instructs: "ABC0052,030105000000010115,24"
+instructs: "ABC0052,030105000000010116,24"
+instructs: "ABC0052,030105000000010117,24"
+instructs: "ABC0052,030105000000010118,24"
+instructs: "ABC0052,030105000000010119,24"
+instructs: "ABC0052,03010500000001011A,24"
+instructs: "ABC0052,03010500000001011B,24"
+instructs: "ABC0052,03010500000001011C,24"
+instructs: "ABC0052,03010500000001011D,24"
+instructs: "ABC0052,0301050000000101210,1"
+instructs: "ABC0052,0301040000000101231,1"
+hardwaretype: 1
+
+sessionid: 1172
+depotid: 580
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 201600
+cycleindex: 100000
+instructs: "ABC0018,030102000000010111,24"
+instructs: "ABC0018,030102000000010112,24"
+instructs: "ABC0018,030102000000010113,24"
+instructs: "ABC0018,030102000000010114,24"
+instructs: "ABC0018,030102000000010115,24"
+instructs: "ABC0018,030102000000010116,24"
+instructs: "ABC0018,030102000000010117,24"
+instructs: "ABC0018,0301040000000101211,1"
+instructs: "ABC0018,0301040000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016-Mar-03 13:21:20.955221"
+
+sessionid: 1172
+depotid: 581
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 201600
+cycleindex: 100000
+instructs: "ABC0018,030102000000010118,24"
+instructs: "ABC0018,030102000000010119,24"
+instructs: "ABC0018,03010200000001011a,24"
+instructs: "ABC0018,03010200000001011b,24"
+instructs: "ABC0018,03010200000001011c,24"
+instructs: "ABC0018,03010200000001011d,24"
+instructs: "ABC0018,03010200000001011e,24"
+instructs: "ABC0018,0301020000000101230,1"
+instructs: "ABC0018,0301040000000101211,1"
+hardwaretype: 1
+starttimerPeriod: "2016-Mar-03 13:21:20.955221"
+
+sessionid: 1172
+depotid: 582
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 201600
+cycleindex: 100000
+instructs: "ABC0018,0301030000000101220,1"
+instructs: "ABC0018,030103000000010111,24"
+instructs: "ABC0018,030103000000010112,24"
+instructs: "ABC0018,030103000000010113,24"
+instructs: "ABC0018,030103000000010114,24"
+instructs: "ABC0018,030103000000010115,24"
+instructs: "ABC0018,030103000000010116,24"
+instructs: "ABC0018,030103000000010117,24"
+instructs: "ABC0018,0301040000000101211,1"
+hardwaretype: 1
+starttimerPeriod: "2016-Mar-03 13:21:20.955221"
+
+sessionid: 1172
+depotid: 583
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 201600
+cycleindex: 100000
+instructs: "ABC0018,030103000000010118,24"
+instructs: "ABC0018,030103000000010119,24"
+instructs: "ABC0018,03010300000001011a,24"
+instructs: "ABC0018,03010300000001011b,24"
+instructs: "ABC0018,03010300000001011c,24"
+instructs: "ABC0018,03010300000001011d,24"
+instructs: "ABC0018,03010300000001011e,24"
+instructs: "ABC0018,0301030000000101230,1"
+instructs: "ABC0018,0301040000000101211,1"
+hardwaretype: 1
+starttimerPeriod: "2016-Mar-03 13:21:20.955221"
+
+sessionid: 2105
+depotid: 292
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0010,030103000000010122,1"
+instructs: "ABC0010,030107000000010111,60"
+instructs: "ABC0010,030107000000010112,60"
+instructs: "ABC0010,030107000000010113,60"
+instructs: "ABC0010,030107000000010114,20"
+instructs: "ABC0010,030107000000010121,1"
+hardwaretype: 1
+starttimerPeriod: "2016-Mar-03 13:21:20.955221"
+
+sessionid: 718
+depotid: 594
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 144
+cycleindex: 100000
+instructs: "ABC7777,030101000000010111,35"
+instructs: "ABC7777,030101000000010112,35"
+instructs: "ABC7777,030101000000010113,56"
+instructs: "ABC7777,030101000000010114,56"
+instructs: "ABC7777,030101000000010115,56"
+instructs: "ABC7777,030101000000010116,56"
+instructs: "ABC7777,030101000000010117,56"
+instructs: "ABC7777,030101000000010118,56"
+instructs: "ABC7777,030101000000010119,56"
+instructs: "ABC7777,0301010000000101210,1"
+instructs: "ABC7777,0301010000000101221,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/7 16:26:47"
+
+sessionid: 718
+depotid: 597
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 144
+cycleindex: 100000
+instructs: "ABC7777,030102000000010111,56"
+instructs: "ABC7777,030102000000010112,56"
+instructs: "ABC7777,030102000000010113,56"
+instructs: "ABC7777,030102000000010114,56"
+instructs: "ABC7777,030102000000010115,56"
+instructs: "ABC7777,030102000000010116,56"
+instructs: "ABC7777,030102000000010117,56"
+instructs: "ABC7777,030102000000010118,56"
+instructs: "ABC7777,030102000000010119,56"
+instructs: "ABC7777,0301020000000101210,1"
+instructs: "ABC7777,0301020000000101221,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/7 16:26:47"
+
+sessionid: 2971
+depotid: 180
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020211,10"
+instructs: "ABC0005,020212,10"
+instructs: "ABC0005,020213,10"
+instructs: "ABC0005,020214,10"
+instructs: "ABC0005,020215,10"
+
+sessionid: 2971
+depotid: 181
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020311,10"
+instructs: "ABC0005,020312,10"
+instructs: "ABC0005,020313,10"
+instructs: "ABC0005,020314,10"
+instructs: "ABC0005,020315,10"
+
+sessionid: 2971
+depotid: 182
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020411,10"
+instructs: "ABC0005,020412,10"
+instructs: "ABC0005,020413,10"
+instructs: "ABC0005,020414,10"
+instructs: "ABC0005,020415,10"
+
+sessionid: 2971
+depotid: 183
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020511,10"
+instructs: "ABC0005,020512,10"
+instructs: "ABC0005,020513,10"
+instructs: "ABC0005,020514,10"
+instructs: "ABC0005,020515,10"
+
+sessionid: 2971
+depotid: 184
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020611,10"
+instructs: "ABC0005,020612,10"
+instructs: "ABC0005,020613,10"
+instructs: "ABC0005,020614,10"
+instructs: "ABC0005,020615,10"
+
+sessionid: 2971
+depotid: 185
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020711,10"
+instructs: "ABC0005,020712,10"
+instructs: "ABC0005,020713,10"
+instructs: "ABC0005,020714,10"
+instructs: "ABC0005,020715,10"
+
+sessionid: 2971
+depotid: 186
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020811,10"
+instructs: "ABC0005,020812,10"
+instructs: "ABC0005,020813,10"
+instructs: "ABC0005,020814,10"
+instructs: "ABC0005,020815,10"
+
+sessionid: 3216
+depotid: 552
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,030102000000010117,28"
+instructs: "ABC0034,030102000000010118,28"
+instructs: "ABC0034,030102000000010119,28"
+instructs: "ABC0034,03010200000001011A,28"
+instructs: "ABC0034,03010200000001011B,28"
+instructs: "ABC0034,03010200000001011C,28"
+instructs: "ABC0034,0301020000000101220,1"
+instructs: "ABC0034,03010B0000000101211,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 553
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030103000000010111,20"
+instructs: "ABC0034,030103000000010112,20"
+instructs: "ABC0034,030103000000010113,20"
+instructs: "ABC0034,030103000000010114,20"
+instructs: "ABC0034,030103000000010115,20"
+instructs: "ABC0034,030103000000010116,20"
+instructs: "ABC0034,030103000000010117,20"
+instructs: "ABC0034,0301030000000101210,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 554
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030103000000010118,20"
+instructs: "ABC0034,030103000000010119,20"
+instructs: "ABC0034,03010300000001011A,20"
+instructs: "ABC0034,03010300000001011B,20"
+instructs: "ABC0034,03010300000001011C,20"
+instructs: "ABC0034,03010300000001011D,20"
+instructs: "ABC0034,03010300000001011E,20"
+instructs: "ABC0034,0301030000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 555
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030104000000010111,20"
+instructs: "ABC0034,030104000000010112,20"
+instructs: "ABC0034,030104000000010113,20"
+instructs: "ABC0034,030104000000010114,20"
+instructs: "ABC0034,030104000000010115,20"
+instructs: "ABC0034,030104000000010116,20"
+instructs: "ABC0034,030104000000010117,20"
+instructs: "ABC0034,0301040000000101210,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 556
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030104000000010118,20"
+instructs: "ABC0034,030104000000010119,20"
+instructs: "ABC0034,03010400000001011A,20"
+instructs: "ABC0034,03010400000001011B,20"
+instructs: "ABC0034,03010400000001011C,20"
+instructs: "ABC0034,03010400000001011D,20"
+instructs: "ABC0034,03010400000001011E,20"
+instructs: "ABC0034,0301040000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 557
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030105000000010111,24"
+instructs: "ABC0034,030105000000010112,24"
+instructs: "ABC0034,030105000000010113,24"
+instructs: "ABC0034,030105000000010114,24"
+instructs: "ABC0034,030105000000010115,24"
+instructs: "ABC0034,030105000000010116,24"
+instructs: "ABC0034,030105000000010117,24"
+instructs: "ABC0034,030105000000010118,24"
+instructs: "ABC0034,030105000000010119,24"
+instructs: "ABC0034,03010500000001011A,24"
+instructs: "ABC0034,0301050000000101220,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 558
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030106000000010111,24"
+instructs: "ABC0034,030106000000010112,24"
+instructs: "ABC0034,030106000000010113,24"
+instructs: "ABC0034,030106000000010114,24"
+instructs: "ABC0034,030106000000010115,24"
+instructs: "ABC0034,030106000000010116,24"
+instructs: "ABC0034,030106000000010117,24"
+instructs: "ABC0034,030106000000010118,24"
+instructs: "ABC0034,030106000000010119,24"
+instructs: "ABC0034,03010600000001011A,24"
+instructs: "ABC0034,0301060000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 559
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030107000000010111,24"
+instructs: "ABC0034,030107000000010112,24"
+instructs: "ABC0034,030107000000010113,24"
+instructs: "ABC0034,030107000000010114,24"
+instructs: "ABC0034,030107000000010115,24"
+instructs: "ABC0034,030107000000010116,24"
+instructs: "ABC0034,030107000000010117,24"
+instructs: "ABC0034,030107000000010118,24"
+instructs: "ABC0034,030107000000010119,24"
+instructs: "ABC0034,03010700000001011A,24"
+instructs: "ABC0034,0301070000000101220,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 560
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030108000000010111,24"
+instructs: "ABC0034,030108000000010112,24"
+instructs: "ABC0034,030108000000010113,24"
+instructs: "ABC0034,030108000000010114,24"
+instructs: "ABC0034,030108000000010115,24"
+instructs: "ABC0034,030108000000010116,24"
+instructs: "ABC0034,030108000000010117,24"
+instructs: "ABC0034,030108000000010118,24"
+instructs: "ABC0034,030108000000010119,24"
+instructs: "ABC0034,03010800000001011A,24"
+instructs: "ABC0034,0301080000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 561
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030109000000010111,24"
+instructs: "ABC0034,030109000000010112,24"
+instructs: "ABC0034,030109000000010113,24"
+instructs: "ABC0034,030109000000010114,24"
+instructs: "ABC0034,030109000000010115,24"
+instructs: "ABC0034,030109000000010116,24"
+instructs: "ABC0034,030109000000010117,24"
+instructs: "ABC0034,030109000000010118,24"
+instructs: "ABC0034,030109000000010119,24"
+instructs: "ABC0034,03010900000001011A,24"
+instructs: "ABC0034,0301090000000101220,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 562
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,03010A000000010111,24"
+instructs: "ABC0034,03010A000000010112,24"
+instructs: "ABC0034,03010A000000010113,24"
+instructs: "ABC0034,03010A000000010114,24"
+instructs: "ABC0034,03010A000000010115,24"
+instructs: "ABC0034,03010A000000010116,24"
+instructs: "ABC0034,03010A000000010117,24"
+instructs: "ABC0034,03010A000000010118,24"
+instructs: "ABC0034,03010A000000010119,24"
+instructs: "ABC0034,03010A00000001011A,24"
+instructs: "ABC0034,03010A0000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 563
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B000000010111,24"
+instructs: "ABC0034,03010B000000010112,24"
+instructs: "ABC0034,03010B000000010113,24"
+instructs: "ABC0034,03010B000000010114,24"
+instructs: "ABC0034,03010B000000010115,24"
+instructs: "ABC0034,03010B000000010116,24"
+instructs: "ABC0034,03010B000000010117,24"
+instructs: "ABC0034,03010B000000010118,24"
+instructs: "ABC0034,03010B000000010119,24"
+instructs: "ABC0034,03010B00000001011A,24"
+instructs: "ABC0034,03010B0000000101220,1"
+instructs: "ABC0034,03010B0000000101211,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 564
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,03010C000000010111,24"
+instructs: "ABC0034,03010C000000010112,24"
+instructs: "ABC0034,03010C000000010113,24"
+instructs: "ABC0034,03010C000000010114,24"
+instructs: "ABC0034,03010C000000010115,24"
+instructs: "ABC0034,03010C000000010116,24"
+instructs: "ABC0034,03010C000000010117,24"
+instructs: "ABC0034,03010C000000010118,24"
+instructs: "ABC0034,03010C000000010119,24"
+instructs: "ABC0034,03010C00000001011A,24"
+instructs: "ABC0034,03010C0000000101210,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 5
+depotid: 602
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC7777,030102000000010111,35"
+instructs: "ABC7777,030102000000010112,35"
+instructs: "ABC7777,0301020000000101210,1"
+instructs: "ABC7777,0301010000000101221,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/21 19:56:32"
+
+sessionid: 5
+depotid: 603
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC7777,030101000000010111,35"
+instructs: "ABC7777,030101000000010112,35"
+instructs: "ABC7777,030101000000010113,35"
+instructs: "ABC7777,030101000000010114,35"
+instructs: "ABC7777,030101000000010115,35"
+instructs: "ABC7777,030101000000010116,35"
+instructs: "ABC7777,030101000000010117,35"
+instructs: "ABC7777,030101000000010118,35"
+instructs: "ABC7777,030101000000010119,35"
+instructs: "ABC7777,0301010000000101210,1"
+instructs: "ABC7777,0301010000000101221,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/21 19:56:32"
+
+sessionid: 381
+depotid: 571
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-24 7:40:00"
+cycleindex: 100000
+instructs: "ABC0046,030103000000010111,20"
+instructs: "ABC0046,030103000000010112,20"
+instructs: "ABC0046,030103000000010113,20"
+instructs: "ABC0046,030103000000010114,20"
+instructs: "ABC0046,030103000000010115,20"
+instructs: "ABC0046,030103000000010116,20"
+instructs: "ABC0046,030103000000010117,20"
+instructs: "ABC0046,030103000000010118,20"
+instructs: "ABC0046,0301030000000101210,1"
+instructs: "ABC0046,0301030000000101221,1"
+hardwaretype: 1
+
+sessionid: 381
+depotid: 572
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-24 7:40:00"
+cycleindex: 100000
+instructs: "ABC0046,030102000000010111,20"
+instructs: "ABC0046,030102000000010112,20"
+instructs: "ABC0046,030102000000010113,20"
+instructs: "ABC0046,030102000000010114,20"
+instructs: "ABC0046,030102000000010115,20"
+instructs: "ABC0046,030102000000010116,20"
+instructs: "ABC0046,030102000000010117,20"
+instructs: "ABC0046,030102000000010118,20"
+instructs: "ABC0046,0301020000000101210,1"
+instructs: "ABC0046,0301030000000101221,1"
+hardwaretype: 1
+
+sessionid: 381
+depotid: 573
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-24 7:40:00"
+cycleindex: 100000
+instructs: "ABC0046,030102000000010119,20"
+instructs: "ABC0046,03010200000001011A,20"
+instructs: "ABC0046,03010200000001011B,20"
+instructs: "ABC0046,03010200000001011C,20"
+instructs: "ABC0046,03010200000001011D,20"
+instructs: "ABC0046,03010200000001011E,20"
+instructs: "ABC0046,03010200000001011F,20"
+instructs: "ABC0046,030102000000010120,20"
+instructs: "ABC0046,0301020000000101210,1"
+instructs: "ABC0046,0301030000000101221,1"
+hardwaretype: 1
+
+sessionid: 106
+depotid: 570
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-04-05 7:40:00"
+cycleindex: 1
+instructs: "ABC0045,030102000000010111,28"
+instructs: "ABC0045,030102000000010112,28"
+instructs: "ABC0045,0301020000000101211,1"
+instructs: "ABC0045,0301020000000101220,1"
+instructs: "ABC0045,030102000000010113,28"
+instructs: "ABC0045,030102000000010114,28"
+instructs: "ABC0045,030102000000010115,28"
+instructs: "ABC0045,030102000000010116,28"
+instructs: "ABC0045,030102000000010117,28"
+instructs: "ABC0045,030102000000010118,28"
+instructs: "ABC0045,030102000000010119,28"
+instructs: "ABC0045,03010200000001011A,28"
+instructs: "ABC0045,03010200000001011B,28"
+instructs: "ABC0045,03010200000001011C,28"
+instructs: "ABC0045,03010200000001011D,28"
+hardwaretype: 1
+
+sessionid: 134218067
+depotid: 687
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC0066,030102000000010112,30"
+instructs: "ABC0066,030102000000010113,25"
+instructs: "ABC0066,030102000000010114,30"
+instructs: "ABC0066,030102000000010115,20"
+instructs: "ABC0066,030102000000010116,15"
+hardwaretype: 1
+starttimerPeriod: "2016/6/29 20:53:45"
+
+sessionid: 134218067
+depotid: 688
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC0066,030102000000010111,28"
+hardwaretype: 1
+starttimerPeriod: "2016/6/29 20:53:45"
+
+sessionid: 134218067
+depotid: 689
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC0066,030103000000010115,15"
+instructs: "ABC0066,030103000000010116,30"
+instructs: "ABC0066,030103000000010117,28"
+hardwaretype: 1
+starttimerPeriod: "2016/6/29 20:53:45"
+
+sessionid: 134218067
+depotid: 690
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC0066,030103000000010111,30"
+instructs: "ABC0066,030103000000010112,25"
+instructs: "ABC0066,030103000000010113,18"
+instructs: "ABC0066,030103000000010114,28"
+hardwaretype: 1
+starttimerPeriod: "2016/6/29 20:53:45"
+
+sessionid: 134218067
+depotid: 691
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC0066,030104000000010111,25"
+instructs: "ABC0066,030104000000010112,30"
+instructs: "ABC0066,030104000000010113,21"
+instructs: "ABC0066,030104000000010114,15"
+instructs: "ABC0066,030104000000010115,18"
+instructs: "ABC0066,030105000000010111,23"
+instructs: "ABC0066,030105000000010112,28"
+instructs: "ABC0066,030105000000010113,15"
+instructs: "ABC0066,030105000000010114,21"
+instructs: "ABC0066,030104000000010116,30"
+instructs: "ABC0066,030104000000010117,30"
+instructs: "ABC0066,030105000000010115,20"
+instructs: "ABC0066,030105000000010116,20"
+hardwaretype: 1
+starttimerPeriod: "2016/6/29 20:53:45"
+
+sessionid: 134217891
+depotid: 652
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010112,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 660
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010113,25"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 661
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010114,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 662
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010115,20"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 663
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010116,15"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 664
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010111,28"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 665
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010115,28"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 666
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010116,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 667
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010117,15"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 668
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010111,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 669
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010112,25"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 670
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010113,18"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 671
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010114,28"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 672
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010111,25"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 673
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010112,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 674
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010113,21"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 675
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010114,15"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 676
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010115,18"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 677
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010111,23"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 678
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010112,28"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 679
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010113,15"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 680
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010114,21"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 681
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010116,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 682
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010117,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 683
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010115,20"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 684
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010116,20"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 43
+depotid: 576
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 32400
+cycleindex: 100000
+instructs: "ABC5000,030110000000010111,5"
+instructs: "ABC5000,030110000000010112,5"
+instructs: "ABC5000,030110000000010113,5"
+instructs: "ABC5000,030110000000010114,5"
+starttimerPeriod: "2016/8/17 20:37:11"
+
+sessionid: 8
+depotid: 697
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC5000,0301010000000101C1,5"
+instructs: "ABC5000,0301010000000101C2,5"
+starttimerPeriod: "2016/9/30 12:07:30"
+
+sessionid: 28
+depotid: 1
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 120
+cycleindex: 10000
+instructs: "IDT0001,030103000000010111,4"
+instructs: "IDT0001,030103000000010112,15"
+hardwaretype: 0
+starttimerPeriod: "2017/3/11 22:30:37"
+
+sessionid: 1
+depotid: 371
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 180
+cycleindex: 100000
+instructs: "ABC7778,030110000000010191,1"
+instructs: "ABC7778,0301100000000101A2,1"
+instructs: "ABC7778,0301100000000101B3,1"
+starttimerPeriod: "2017/8/29 16:34:35"
+timingtestingtype: Gas
+
+sessionid: 1
+depotid: 371
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 180
+cycleindex: 100000
+instructs: "ABC7778,0301ff000000010114,4"
+instructs: "ABC7778,030110000000010111,15"
+instructs: "ABC7778,030110000000010112,15"
+instructs: "ABC7778,030110000000010113,15"
+instructs: "ABC7778,030110000000010114,15"
+instructs: "ABC7778,0301100000000101210,1"
+instructs: "ABC7778,0301100000000101221,1"
+starttimerPeriod: "2017/8/29 16:42:49"
+timingtestingtype: TempHumi
+
+sessionid: 635
+depotid: 489
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-01-25 8:00:00"
+cycleindex: 100000
+instructs: "ABC0052,030102000000010111,24"
+instructs: "ABC0052,030102000000010112,24"
+instructs: "ABC0052,030102000000010113,24"
+instructs: "ABC0052,030102000000010114,24"
+instructs: "ABC0052,030102000000010115,24"
+instructs: "ABC0052,030102000000010116,24"
+instructs: "ABC0052,030102000000010117,24"
+instructs: "ABC0052,030102000000010118,24"
+instructs: "ABC0052,030102000000010119,24"
+instructs: "ABC0052,03010200000001011A,24"
+instructs: "ABC0052,03010200000001011B,24"
+instructs: "ABC0052,03010200000001011C,24"
+instructs: "ABC0052,03010200000001011D,24"
+instructs: "ABC0052,0301020000000101210,1"
+instructs: "ABC0052,0301040000000101231,1"
+hardwaretype: 1
+
+sessionid: 635
+depotid: 522
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-01-25 8:00:00"
+cycleindex: 100000
+instructs: "ABC0052,030103000000010111,24"
+instructs: "ABC0052,030103000000010112,24"
+instructs: "ABC0052,030103000000010113,24"
+instructs: "ABC0052,030103000000010114,24"
+instructs: "ABC0052,030103000000010115,24"
+instructs: "ABC0052,030103000000010116,24"
+instructs: "ABC0052,030103000000010117,24"
+instructs: "ABC0052,030103000000010118,24"
+instructs: "ABC0052,030103000000010119,24"
+instructs: "ABC0052,03010300000001011A,24"
+instructs: "ABC0052,03010300000001011B,24"
+instructs: "ABC0052,03010300000001011C,24"
+instructs: "ABC0052,03010300000001011D,24"
+instructs: "ABC0052,0301030000000101220,1"
+instructs: "ABC0052,0301040000000101231,1"
+hardwaretype: 1
+
+sessionid: 635
+depotid: 523
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-01-25 8:00:00"
+cycleindex: 100000
+instructs: "ABC0052,030104000000010111,24"
+instructs: "ABC0052,030104000000010112,24"
+instructs: "ABC0052,030104000000010113,24"
+instructs: "ABC0052,030104000000010114,24"
+instructs: "ABC0052,030104000000010115,24"
+instructs: "ABC0052,030104000000010116,24"
+instructs: "ABC0052,030104000000010117,24"
+instructs: "ABC0052,030104000000010118,24"
+instructs: "ABC0052,030104000000010119,24"
+instructs: "ABC0052,03010400000001011A,24"
+instructs: "ABC0052,03010400000001011B,24"
+instructs: "ABC0052,03010400000001011C,24"
+instructs: "ABC0052,03010400000001011D,24"
+instructs: "ABC0052,0301040000000101220,1"
+instructs: "ABC0052,0301040000000101231,1"
+hardwaretype: 1
+
+sessionid: 635
+depotid: 524
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-01-25 8:00:00"
+cycleindex: 100000
+instructs: "ABC0052,030105000000010111,24"
+instructs: "ABC0052,030105000000010112,24"
+instructs: "ABC0052,030105000000010113,24"
+instructs: "ABC0052,030105000000010114,24"
+instructs: "ABC0052,030105000000010115,24"
+instructs: "ABC0052,030105000000010116,24"
+instructs: "ABC0052,030105000000010117,24"
+instructs: "ABC0052,030105000000010118,24"
+instructs: "ABC0052,030105000000010119,24"
+instructs: "ABC0052,03010500000001011A,24"
+instructs: "ABC0052,03010500000001011B,24"
+instructs: "ABC0052,03010500000001011C,24"
+instructs: "ABC0052,03010500000001011D,24"
+instructs: "ABC0052,0301050000000101210,1"
+instructs: "ABC0052,0301040000000101231,1"
+hardwaretype: 1
+
+sessionid: 1172
+depotid: 580
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 201600
+cycleindex: 100000
+instructs: "ABC0018,030102000000010111,24"
+instructs: "ABC0018,030102000000010112,24"
+instructs: "ABC0018,030102000000010113,24"
+instructs: "ABC0018,030102000000010114,24"
+instructs: "ABC0018,030102000000010115,24"
+instructs: "ABC0018,030102000000010116,24"
+instructs: "ABC0018,030102000000010117,24"
+instructs: "ABC0018,0301040000000101211,1"
+instructs: "ABC0018,0301040000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016-Mar-03 13:21:20.955221"
+
+sessionid: 1172
+depotid: 581
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 201600
+cycleindex: 100000
+instructs: "ABC0018,030102000000010118,24"
+instructs: "ABC0018,030102000000010119,24"
+instructs: "ABC0018,03010200000001011a,24"
+instructs: "ABC0018,03010200000001011b,24"
+instructs: "ABC0018,03010200000001011c,24"
+instructs: "ABC0018,03010200000001011d,24"
+instructs: "ABC0018,03010200000001011e,24"
+instructs: "ABC0018,0301020000000101230,1"
+instructs: "ABC0018,0301040000000101211,1"
+hardwaretype: 1
+starttimerPeriod: "2016-Mar-03 13:21:20.955221"
+
+sessionid: 1172
+depotid: 582
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 201600
+cycleindex: 100000
+instructs: "ABC0018,0301030000000101220,1"
+instructs: "ABC0018,030103000000010111,24"
+instructs: "ABC0018,030103000000010112,24"
+instructs: "ABC0018,030103000000010113,24"
+instructs: "ABC0018,030103000000010114,24"
+instructs: "ABC0018,030103000000010115,24"
+instructs: "ABC0018,030103000000010116,24"
+instructs: "ABC0018,030103000000010117,24"
+instructs: "ABC0018,0301040000000101211,1"
+hardwaretype: 1
+starttimerPeriod: "2016-Mar-03 13:21:20.955221"
+
+sessionid: 1172
+depotid: 583
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 201600
+cycleindex: 100000
+instructs: "ABC0018,030103000000010118,24"
+instructs: "ABC0018,030103000000010119,24"
+instructs: "ABC0018,03010300000001011a,24"
+instructs: "ABC0018,03010300000001011b,24"
+instructs: "ABC0018,03010300000001011c,24"
+instructs: "ABC0018,03010300000001011d,24"
+instructs: "ABC0018,03010300000001011e,24"
+instructs: "ABC0018,0301030000000101230,1"
+instructs: "ABC0018,0301040000000101211,1"
+hardwaretype: 1
+starttimerPeriod: "2016-Mar-03 13:21:20.955221"
+
+sessionid: 2105
+depotid: 292
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0010,030103000000010122,1"
+instructs: "ABC0010,030107000000010111,60"
+instructs: "ABC0010,030107000000010112,60"
+instructs: "ABC0010,030107000000010113,60"
+instructs: "ABC0010,030107000000010114,20"
+instructs: "ABC0010,030107000000010121,1"
+hardwaretype: 1
+starttimerPeriod: "2016-Mar-03 13:21:20.955221"
+
+sessionid: 718
+depotid: 594
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 144
+cycleindex: 100000
+instructs: "ABC7777,030101000000010111,35"
+instructs: "ABC7777,030101000000010112,35"
+instructs: "ABC7777,030101000000010113,56"
+instructs: "ABC7777,030101000000010114,56"
+instructs: "ABC7777,030101000000010115,56"
+instructs: "ABC7777,030101000000010116,56"
+instructs: "ABC7777,030101000000010117,56"
+instructs: "ABC7777,030101000000010118,56"
+instructs: "ABC7777,030101000000010119,56"
+instructs: "ABC7777,0301010000000101210,1"
+instructs: "ABC7777,0301010000000101221,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/7 16:26:47"
+
+sessionid: 718
+depotid: 597
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 144
+cycleindex: 100000
+instructs: "ABC7777,030102000000010111,56"
+instructs: "ABC7777,030102000000010112,56"
+instructs: "ABC7777,030102000000010113,56"
+instructs: "ABC7777,030102000000010114,56"
+instructs: "ABC7777,030102000000010115,56"
+instructs: "ABC7777,030102000000010116,56"
+instructs: "ABC7777,030102000000010117,56"
+instructs: "ABC7777,030102000000010118,56"
+instructs: "ABC7777,030102000000010119,56"
+instructs: "ABC7777,0301020000000101210,1"
+instructs: "ABC7777,0301020000000101221,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/7 16:26:47"
+
+sessionid: 2971
+depotid: 180
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020211,10"
+instructs: "ABC0005,020212,10"
+instructs: "ABC0005,020213,10"
+instructs: "ABC0005,020214,10"
+instructs: "ABC0005,020215,10"
+
+sessionid: 2971
+depotid: 181
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020311,10"
+instructs: "ABC0005,020312,10"
+instructs: "ABC0005,020313,10"
+instructs: "ABC0005,020314,10"
+instructs: "ABC0005,020315,10"
+
+sessionid: 2971
+depotid: 182
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020411,10"
+instructs: "ABC0005,020412,10"
+instructs: "ABC0005,020413,10"
+instructs: "ABC0005,020414,10"
+instructs: "ABC0005,020415,10"
+
+sessionid: 2971
+depotid: 183
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020511,10"
+instructs: "ABC0005,020512,10"
+instructs: "ABC0005,020513,10"
+instructs: "ABC0005,020514,10"
+instructs: "ABC0005,020515,10"
+
+sessionid: 2971
+depotid: 184
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020611,10"
+instructs: "ABC0005,020612,10"
+instructs: "ABC0005,020613,10"
+instructs: "ABC0005,020614,10"
+instructs: "ABC0005,020615,10"
+
+sessionid: 2971
+depotid: 185
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020711,10"
+instructs: "ABC0005,020712,10"
+instructs: "ABC0005,020713,10"
+instructs: "ABC0005,020714,10"
+instructs: "ABC0005,020715,10"
+
+sessionid: 2971
+depotid: 186
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-16 4:0:00"
+cycleindex: 100000
+instructs: "ABC0005,020811,10"
+instructs: "ABC0005,020812,10"
+instructs: "ABC0005,020813,10"
+instructs: "ABC0005,020814,10"
+instructs: "ABC0005,020815,10"
+
+sessionid: 3216
+depotid: 552
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,030102000000010117,28"
+instructs: "ABC0034,030102000000010118,28"
+instructs: "ABC0034,030102000000010119,28"
+instructs: "ABC0034,03010200000001011A,28"
+instructs: "ABC0034,03010200000001011B,28"
+instructs: "ABC0034,03010200000001011C,28"
+instructs: "ABC0034,0301020000000101220,1"
+instructs: "ABC0034,03010B0000000101211,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 553
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030103000000010111,20"
+instructs: "ABC0034,030103000000010112,20"
+instructs: "ABC0034,030103000000010113,20"
+instructs: "ABC0034,030103000000010114,20"
+instructs: "ABC0034,030103000000010115,20"
+instructs: "ABC0034,030103000000010116,20"
+instructs: "ABC0034,030103000000010117,20"
+instructs: "ABC0034,0301030000000101210,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 554
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030103000000010118,20"
+instructs: "ABC0034,030103000000010119,20"
+instructs: "ABC0034,03010300000001011A,20"
+instructs: "ABC0034,03010300000001011B,20"
+instructs: "ABC0034,03010300000001011C,20"
+instructs: "ABC0034,03010300000001011D,20"
+instructs: "ABC0034,03010300000001011E,20"
+instructs: "ABC0034,0301030000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 555
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030104000000010111,20"
+instructs: "ABC0034,030104000000010112,20"
+instructs: "ABC0034,030104000000010113,20"
+instructs: "ABC0034,030104000000010114,20"
+instructs: "ABC0034,030104000000010115,20"
+instructs: "ABC0034,030104000000010116,20"
+instructs: "ABC0034,030104000000010117,20"
+instructs: "ABC0034,0301040000000101210,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 556
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030104000000010118,20"
+instructs: "ABC0034,030104000000010119,20"
+instructs: "ABC0034,03010400000001011A,20"
+instructs: "ABC0034,03010400000001011B,20"
+instructs: "ABC0034,03010400000001011C,20"
+instructs: "ABC0034,03010400000001011D,20"
+instructs: "ABC0034,03010400000001011E,20"
+instructs: "ABC0034,0301040000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 557
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030105000000010111,24"
+instructs: "ABC0034,030105000000010112,24"
+instructs: "ABC0034,030105000000010113,24"
+instructs: "ABC0034,030105000000010114,24"
+instructs: "ABC0034,030105000000010115,24"
+instructs: "ABC0034,030105000000010116,24"
+instructs: "ABC0034,030105000000010117,24"
+instructs: "ABC0034,030105000000010118,24"
+instructs: "ABC0034,030105000000010119,24"
+instructs: "ABC0034,03010500000001011A,24"
+instructs: "ABC0034,0301050000000101220,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 558
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030106000000010111,24"
+instructs: "ABC0034,030106000000010112,24"
+instructs: "ABC0034,030106000000010113,24"
+instructs: "ABC0034,030106000000010114,24"
+instructs: "ABC0034,030106000000010115,24"
+instructs: "ABC0034,030106000000010116,24"
+instructs: "ABC0034,030106000000010117,24"
+instructs: "ABC0034,030106000000010118,24"
+instructs: "ABC0034,030106000000010119,24"
+instructs: "ABC0034,03010600000001011A,24"
+instructs: "ABC0034,0301060000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 559
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030107000000010111,24"
+instructs: "ABC0034,030107000000010112,24"
+instructs: "ABC0034,030107000000010113,24"
+instructs: "ABC0034,030107000000010114,24"
+instructs: "ABC0034,030107000000010115,24"
+instructs: "ABC0034,030107000000010116,24"
+instructs: "ABC0034,030107000000010117,24"
+instructs: "ABC0034,030107000000010118,24"
+instructs: "ABC0034,030107000000010119,24"
+instructs: "ABC0034,03010700000001011A,24"
+instructs: "ABC0034,0301070000000101220,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 560
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030108000000010111,24"
+instructs: "ABC0034,030108000000010112,24"
+instructs: "ABC0034,030108000000010113,24"
+instructs: "ABC0034,030108000000010114,24"
+instructs: "ABC0034,030108000000010115,24"
+instructs: "ABC0034,030108000000010116,24"
+instructs: "ABC0034,030108000000010117,24"
+instructs: "ABC0034,030108000000010118,24"
+instructs: "ABC0034,030108000000010119,24"
+instructs: "ABC0034,03010800000001011A,24"
+instructs: "ABC0034,0301080000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 561
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,030109000000010111,24"
+instructs: "ABC0034,030109000000010112,24"
+instructs: "ABC0034,030109000000010113,24"
+instructs: "ABC0034,030109000000010114,24"
+instructs: "ABC0034,030109000000010115,24"
+instructs: "ABC0034,030109000000010116,24"
+instructs: "ABC0034,030109000000010117,24"
+instructs: "ABC0034,030109000000010118,24"
+instructs: "ABC0034,030109000000010119,24"
+instructs: "ABC0034,03010900000001011A,24"
+instructs: "ABC0034,0301090000000101220,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 562
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,03010A000000010111,24"
+instructs: "ABC0034,03010A000000010112,24"
+instructs: "ABC0034,03010A000000010113,24"
+instructs: "ABC0034,03010A000000010114,24"
+instructs: "ABC0034,03010A000000010115,24"
+instructs: "ABC0034,03010A000000010116,24"
+instructs: "ABC0034,03010A000000010117,24"
+instructs: "ABC0034,03010A000000010118,24"
+instructs: "ABC0034,03010A000000010119,24"
+instructs: "ABC0034,03010A00000001011A,24"
+instructs: "ABC0034,03010A0000000101230,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 563
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B000000010111,24"
+instructs: "ABC0034,03010B000000010112,24"
+instructs: "ABC0034,03010B000000010113,24"
+instructs: "ABC0034,03010B000000010114,24"
+instructs: "ABC0034,03010B000000010115,24"
+instructs: "ABC0034,03010B000000010116,24"
+instructs: "ABC0034,03010B000000010117,24"
+instructs: "ABC0034,03010B000000010118,24"
+instructs: "ABC0034,03010B000000010119,24"
+instructs: "ABC0034,03010B00000001011A,24"
+instructs: "ABC0034,03010B0000000101220,1"
+instructs: "ABC0034,03010B0000000101211,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 3216
+depotid: 564
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 86400
+cycleindex: 100000
+instructs: "ABC0034,03010B0000000101211,1"
+instructs: "ABC0034,03010C000000010111,24"
+instructs: "ABC0034,03010C000000010112,24"
+instructs: "ABC0034,03010C000000010113,24"
+instructs: "ABC0034,03010C000000010114,24"
+instructs: "ABC0034,03010C000000010115,24"
+instructs: "ABC0034,03010C000000010116,24"
+instructs: "ABC0034,03010C000000010117,24"
+instructs: "ABC0034,03010C000000010118,24"
+instructs: "ABC0034,03010C000000010119,24"
+instructs: "ABC0034,03010C00000001011A,24"
+instructs: "ABC0034,03010C0000000101210,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/17 15:54:36"
+
+sessionid: 5
+depotid: 602
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC7777,030102000000010111,35"
+instructs: "ABC7777,030102000000010112,35"
+instructs: "ABC7777,0301020000000101210,1"
+instructs: "ABC7777,0301010000000101221,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/21 19:56:32"
+
+sessionid: 5
+depotid: 603
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC7777,030101000000010111,35"
+instructs: "ABC7777,030101000000010112,35"
+instructs: "ABC7777,030101000000010113,35"
+instructs: "ABC7777,030101000000010114,35"
+instructs: "ABC7777,030101000000010115,35"
+instructs: "ABC7777,030101000000010116,35"
+instructs: "ABC7777,030101000000010117,35"
+instructs: "ABC7777,030101000000010118,35"
+instructs: "ABC7777,030101000000010119,35"
+instructs: "ABC7777,0301010000000101210,1"
+instructs: "ABC7777,0301010000000101221,1"
+hardwaretype: 1
+starttimerPeriod: "2016/3/21 19:56:32"
+
+sessionid: 381
+depotid: 571
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-24 7:40:00"
+cycleindex: 100000
+instructs: "ABC0046,030103000000010111,20"
+instructs: "ABC0046,030103000000010112,20"
+instructs: "ABC0046,030103000000010113,20"
+instructs: "ABC0046,030103000000010114,20"
+instructs: "ABC0046,030103000000010115,20"
+instructs: "ABC0046,030103000000010116,20"
+instructs: "ABC0046,030103000000010117,20"
+instructs: "ABC0046,030103000000010118,20"
+instructs: "ABC0046,0301030000000101210,1"
+instructs: "ABC0046,0301030000000101221,1"
+hardwaretype: 1
+
+sessionid: 381
+depotid: 572
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-24 7:40:00"
+cycleindex: 100000
+instructs: "ABC0046,030102000000010111,20"
+instructs: "ABC0046,030102000000010112,20"
+instructs: "ABC0046,030102000000010113,20"
+instructs: "ABC0046,030102000000010114,20"
+instructs: "ABC0046,030102000000010115,20"
+instructs: "ABC0046,030102000000010116,20"
+instructs: "ABC0046,030102000000010117,20"
+instructs: "ABC0046,030102000000010118,20"
+instructs: "ABC0046,0301020000000101210,1"
+instructs: "ABC0046,0301030000000101221,1"
+hardwaretype: 1
+
+sessionid: 381
+depotid: 573
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-03-24 7:40:00"
+cycleindex: 100000
+instructs: "ABC0046,030102000000010119,20"
+instructs: "ABC0046,03010200000001011A,20"
+instructs: "ABC0046,03010200000001011B,20"
+instructs: "ABC0046,03010200000001011C,20"
+instructs: "ABC0046,03010200000001011D,20"
+instructs: "ABC0046,03010200000001011E,20"
+instructs: "ABC0046,03010200000001011F,20"
+instructs: "ABC0046,030102000000010120,20"
+instructs: "ABC0046,0301020000000101210,1"
+instructs: "ABC0046,0301030000000101221,1"
+hardwaretype: 1
+
+sessionid: 106
+depotid: 570
+timerState: Timed
+timerType: Timer_Fixed
+timerFixed: "2016-04-05 7:40:00"
+cycleindex: 1
+instructs: "ABC0045,030102000000010111,28"
+instructs: "ABC0045,030102000000010112,28"
+instructs: "ABC0045,0301020000000101211,1"
+instructs: "ABC0045,0301020000000101220,1"
+instructs: "ABC0045,030102000000010113,28"
+instructs: "ABC0045,030102000000010114,28"
+instructs: "ABC0045,030102000000010115,28"
+instructs: "ABC0045,030102000000010116,28"
+instructs: "ABC0045,030102000000010117,28"
+instructs: "ABC0045,030102000000010118,28"
+instructs: "ABC0045,030102000000010119,28"
+instructs: "ABC0045,03010200000001011A,28"
+instructs: "ABC0045,03010200000001011B,28"
+instructs: "ABC0045,03010200000001011C,28"
+instructs: "ABC0045,03010200000001011D,28"
+hardwaretype: 1
+
+sessionid: 134218067
+depotid: 687
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC0066,030102000000010112,30"
+instructs: "ABC0066,030102000000010113,25"
+instructs: "ABC0066,030102000000010114,30"
+instructs: "ABC0066,030102000000010115,20"
+instructs: "ABC0066,030102000000010116,15"
+hardwaretype: 1
+starttimerPeriod: "2016/6/29 20:53:45"
+
+sessionid: 134218067
+depotid: 688
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC0066,030102000000010111,28"
+hardwaretype: 1
+starttimerPeriod: "2016/6/29 20:53:45"
+
+sessionid: 134218067
+depotid: 689
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC0066,030103000000010115,15"
+instructs: "ABC0066,030103000000010116,30"
+instructs: "ABC0066,030103000000010117,28"
+hardwaretype: 1
+starttimerPeriod: "2016/6/29 20:53:45"
+
+sessionid: 134218067
+depotid: 690
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC0066,030103000000010111,30"
+instructs: "ABC0066,030103000000010112,25"
+instructs: "ABC0066,030103000000010113,18"
+instructs: "ABC0066,030103000000010114,28"
+hardwaretype: 1
+starttimerPeriod: "2016/6/29 20:53:45"
+
+sessionid: 134218067
+depotid: 691
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 1800
+cycleindex: 100000
+instructs: "ABC0066,030104000000010111,25"
+instructs: "ABC0066,030104000000010112,30"
+instructs: "ABC0066,030104000000010113,21"
+instructs: "ABC0066,030104000000010114,15"
+instructs: "ABC0066,030104000000010115,18"
+instructs: "ABC0066,030105000000010111,23"
+instructs: "ABC0066,030105000000010112,28"
+instructs: "ABC0066,030105000000010113,15"
+instructs: "ABC0066,030105000000010114,21"
+instructs: "ABC0066,030104000000010116,30"
+instructs: "ABC0066,030104000000010117,30"
+instructs: "ABC0066,030105000000010115,20"
+instructs: "ABC0066,030105000000010116,20"
+hardwaretype: 1
+starttimerPeriod: "2016/6/29 20:53:45"
+
+sessionid: 134217891
+depotid: 652
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010112,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 660
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010113,25"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 661
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010114,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 662
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010115,20"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 663
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010116,15"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 664
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030102000000010111,28"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 665
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010115,28"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 666
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010116,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 667
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010117,15"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 668
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010111,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 669
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010112,25"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 670
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010113,18"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 671
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030103000000010114,28"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 672
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010111,25"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 673
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010112,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 674
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010113,21"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 675
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010114,15"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 676
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010115,18"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 677
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010111,23"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 678
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010112,28"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 679
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010113,15"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 680
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010114,21"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 681
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010116,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 682
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030104000000010117,30"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 683
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010115,20"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 134217891
+depotid: 684
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC0066,030105000000010116,20"
+hardwaretype: 1
+starttimerPeriod: "2016/7/3 10:28:15"
+
+sessionid: 43
+depotid: 576
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 32400
+cycleindex: 100000
+instructs: "ABC5000,030110000000010111,5"
+instructs: "ABC5000,030110000000010112,5"
+instructs: "ABC5000,030110000000010113,5"
+instructs: "ABC5000,030110000000010114,5"
+starttimerPeriod: "2016/8/17 20:37:11"
+
+sessionid: 8
+depotid: 697
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 3600
+cycleindex: 100000
+instructs: "ABC5000,0301010000000101C1,5"
+instructs: "ABC5000,0301010000000101C2,5"
+starttimerPeriod: "2016/9/30 12:07:30"
+
+sessionid: 28
+depotid: 1
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 120
+cycleindex: 10000
+instructs: "IDT0001,030103000000010111,4"
+instructs: "IDT0001,030103000000010112,15"
+hardwaretype: 0
+starttimerPeriod: "2017/3/11 22:30:37"
+
+sessionid: 1
+depotid: 371
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 180
+cycleindex: 100000
+instructs: "ABC7778,030110000000010191,1"
+instructs: "ABC7778,0301100000000101A2,1"
+instructs: "ABC7778,0301100000000101B3,1"
+starttimerPeriod: "2017/8/29 16:34:35"
+timingtestingtype: Gas
+
+sessionid: 1
+depotid: 371
+timerState: Timed
+timerType: Timer_Period
+timerPeriod: 180
+cycleindex: 100000
+instructs: "ABC7778,0301ff000000010114,4"
+instructs: "ABC7778,030110000000010111,15"
+instructs: "ABC7778,030110000000010112,15"
+instructs: "ABC7778,030110000000010113,15"
+instructs: "ABC7778,030110000000010114,15"
+instructs: "ABC7778,0301100000000101210,1"
+instructs: "ABC7778,0301100000000101221,1"
+starttimerPeriod: "2017/8/29 16:42:49"
+timingtestingtype: TempHumi
+
